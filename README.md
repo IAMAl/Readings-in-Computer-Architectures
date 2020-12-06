@@ -93,6 +93,10 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 6.1.3. Instruction Set Architecture
 
+- "MIPS: A microprocessor architecture", ACM SIGMICRO Newsletter, October 1982
+
+- "Reduced instruction set computer architecture", Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
+
 ### 6.2. Computing Mechanism
 
 #### 6.2.1. Primitives to Compute
@@ -109,19 +113,29 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 6.4. Pipelined Processor
 
-#### 6.4.1. Pipelining: Making Dedicated State Modules
+#### 6.4.1. Pipelining and Hazards
 
-#### 6.4.2. Hazards
+- "Chapter 4 - The Processor: B Pipelining Based on P&H", https://www.cs.colostate.edu/~cs470/s17/Chapter_04Proc_B.pdf
+
+#### 6.4.2. Pipeline Optimization
+
+- "The optimum pipeline depth for a microprocessor", Proceedings 29th Annual International Symposium on Computer Architecture, May 2002
 
 ### 6.5. Parallelism: Limits of Processors
 
 #### 6.5.1. Instruction-Level Parallelism
 
+- "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
+
 #### 6.5.2. Data-Level Parallelism
 
 #### 6.5.3. Thread-Level Parallelism
 
+- "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
+
 ### 6.6.  Readings
+
+- "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
 
 ## 7. Storage Architecture
 
@@ -139,6 +153,8 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 8.1. Wire Delay
 
+- "Route packets, not wires: on-chip inteconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
+
 ### 8.2. Routing on a Chip
 
 ### 8.3. Networks-on-Chip
@@ -148,6 +164,8 @@ Collection of Educational Document related to Computer Architecture.
 ### 8.4. Livelock and Deadlock
 
 ### 8.5. Readings
+
+- "A survey of research and practices of Network-on-chip", ACM Computing SurveysJune 2006
 
 ## 9. Distributed System Architecture
 
