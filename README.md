@@ -129,7 +129,11 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 6.5.2. Data-Level Parallelism
 
+- "Subword parallelism with MAX-2", IEEE Micro, Volume: 16, Issue: 4, Aug 1996
+
 #### 6.5.3. Thread-Level Parallelism
+
+- "The case for a single-chip multiprocessor", ACM SIGPLAN Notices, September 1996
 
 - "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
 
