@@ -159,19 +159,18 @@ Collection of Educational Document related to Computer Architecture.
 
 - "Route packets, not wires: on-chip inteconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
-### 8.2. Routing on a Chip
-
-### 8.3. Networks-on-Chip
-
-- "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
-
-#### 8.3.1. Circuit-Switched Router
-
-### 8.4. Livelock and Deadlock
+### 8.2. Livelock and Deadlock
 
 - "Some Deadlock Properties of Computer Systems", ACM Computing Surveys, September 1972
 
-### 8.5. Readings
+- "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, Volume: 3, Issue: 2, Mar 1992
+
+### 8.3. Routing on a Chip
+
+- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers, Volume: C-36, Issue: 5, May 1987
+### 8.4. Networks-on-Chip
+
+- "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
 
 ## 9. Distributed System Architecture
 
