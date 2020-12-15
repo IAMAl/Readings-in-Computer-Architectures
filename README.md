@@ -103,8 +103,6 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 6.2.2. Call and Return
 
-#### 6.2.3. Exception and Interruption
-
 ### 6.3. Processor
 
 #### 6.3.1. Mapping State Diagram to Processing Flow
@@ -123,6 +121,8 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 6.5. Parallelism: Limits of Processors
 
+- "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
+
 #### 6.5.1. Instruction-Level Parallelism
 
 - "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
@@ -137,9 +137,9 @@ Collection of Educational Document related to Computer Architecture.
 
 - "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
 
-### 6.6.  Readings
+### 6.6. Exception and Interruption
 
-- "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
+- "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, Volume: 37, Issue: 5, May 1988
 
 ## 7. Storage Architecture
 
@@ -163,13 +163,15 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 8.3. Networks-on-Chip
 
+- "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
+
 #### 8.3.1. Circuit-Switched Router
 
 ### 8.4. Livelock and Deadlock
 
-### 8.5. Readings
+- "Some Deadlock Properties of Computer Systems", ACM Computing Surveys, September 1972
 
-- "A survey of research and practices of Network-on-chip", ACM Computing SurveysJune 2006
+### 8.5. Readings
 
 ## 9. Distributed System Architecture
 
