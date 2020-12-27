@@ -66,39 +66,39 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 5.1.2. Logic Gates
 
-### 5.2. Logic Gate Primitives
+#### 5.1.3. Logic Gate Primitives
 
-### 5.3. Combinatorial Logic CIrcuit
+#### 5.1.4. Combinatorial Logic CIrcuit
 
-### 5.4. Synchronous Logic and Pipelining
+### 5.2. Finite State Machine
 
-#### 5.4.1. Clocking
+#### 5.2.1. State Diagram
 
-#### 5.4.2. Latches and Flip-Flop
-
-#### 5.4.3. Registers
-
-#### 5.4.4. Pipelining
-
-- "Pipelining of Arithmetic Functions", IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
-
-### 5.5. Finite State Machine
-
-#### 5.5.1. State Diagram
-
-#### 5.5.2. Mapping State Diagram to FSM
+#### 5.2.2. Mapping State Diagram to FSM
 
 - "Introduction to the theory of finite-state machines", McGraw Hill; First Edition, First Printing (January 1, 1962)
 
-#### 5.5.3. Optimization
+#### 5.2.3. Optimization
 
-### 5.6. Modular and Intellectual Properties
+### 5.3. Synchronous Logic and Pipelining
 
-#### 5.6.1. Module: Hierarchical Description
+#### 5.3.1. Clocking
 
-#### 5.6.2. Reuse of Module
+#### 5.3.2. Latches and Flip-Flop
 
-#### 5.6.3. Hardware Description Languages
+#### 5.3.3. Registers
+
+#### 5.3.4. Pipelining
+
+- "Pipelining of Arithmetic Functions", IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
+
+### 5.4. Modular and Intellectual Properties
+
+#### 5.4.1. Module: Hierarchical Description
+
+#### 5.4.2. Reuse of Module
+
+#### 5.4.3. Hardware Description Languages
 
 
 ## 6. Processor Architecture
