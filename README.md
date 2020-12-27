@@ -133,6 +133,8 @@ Collection of Educational Document related to Computer Architecture.
 
 - "The CDC 6600 Project", Annals of the History of Computing (Volume: 2, Issue: 4, Oct.-Dec. 1980)
 
+- "The CRAY-1 computer system", Hardware Reference Manual, Cray Research, Inc., 1977
+
 ### 6.3. Processor
 
 #### 6.3.1. Mapping State Diagram to Processing Flow
@@ -188,6 +190,8 @@ Collection of Educational Document related to Computer Architecture.
 ### 7.1. Register
 
 ### 7.2. Static RAM
+
+#### 7.2.1. Cache Memories
 
 ### 7.3. Volatile Memories
 
