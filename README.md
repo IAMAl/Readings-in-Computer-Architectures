@@ -161,6 +161,9 @@ Collection of Educational Document related to Computer Architecture.
 
 - "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", IEEE Transactions on Computers (Volume: C-36, Issue: 12, Dec. 1987)
 
+#### 6.5.2. Superscalar Processors
+
+- "The microarchitecture of superscalar processors", Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
 
 
 ### 6.6. Parallelism: Limits of Processors
@@ -185,6 +188,7 @@ Collection of Educational Document related to Computer Architecture.
 
 - "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, Volume: 37, Issue: 5, May 1988
 
+
 ## 7. Storage Architecture
 
 ### 7.1. Register
@@ -192,6 +196,8 @@ Collection of Educational Document related to Computer Architecture.
 ### 7.2. Static RAM
 
 #### 7.2.1. Cache Memories
+
+- "Evaluation techniques for storage hierarchies", IBM Systems Journal (Volume: 9, Issue: 2, 1970)
 
 ### 7.3. Volatile Memories
 
@@ -224,6 +230,7 @@ Collection of Educational Document related to Computer Architecture.
 ### 8.4. Routing on a Chip
 
 - "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers, Volume: C-36, Issue: 5, May 1987
+
 
 ## 9. Distributed System Architecture
 
