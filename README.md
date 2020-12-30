@@ -197,9 +197,9 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 8.4. Routing on a Chip
 
-- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers, Volume: C-36, Issue: 5, May 1987
+- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers, (Volume: C-36, Issue: 5, May 1987)
 
-- "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, Volume: 3, Issue: 2, Mar 1992
+- "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
 
 
 ## 9. Distributed System Architecture
@@ -220,7 +220,7 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 4.2.1. Band-Gap and Junction
 
-- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Proceedings of the IRE ( Volume: 45, Issue: 9, Sept. 1957)
+- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Proceedings of the IRE (Volume: 45, Issue: 9, Sept. 1957)
 
 #### 4.2.2. Historical Review of Transistor
 
@@ -230,7 +230,9 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 4.3.1. Fabrication Process
 
-#### 4.3.2. Wafer
+#### 4.3.2. Integrated Circuits
+
+- "Miniature semiconductor integrated circuit", US3115581A, US Patent
 
 #### 4.3.3. Packaging
 
