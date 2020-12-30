@@ -28,7 +28,7 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 4.1. Boolean Algebra
 
-#### 4.1.1.Boolean Algenra
+#### 4.1.1.Boolean Algebra
 
 - "Elements of Boolean Algebra for the Study of Information-Handling Systems", Proceedings of the IRE (Volume: 41, Issue: 10, Oct. 1953)
 
@@ -42,6 +42,8 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 4.2.1. State Diagram
 
+- "Regular Algebra and Finite Machines", Dover Books on Mathematics
+
 #### 4.2.2. Mapping State Diagram to FSM
 
 - "Introduction to the theory of finite-state machines", McGraw Hill; First Edition, First Printing (January 1, 1962)
@@ -50,13 +52,11 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 4.3. Synchronous Logic and Pipelining
 
-#### 4.3.1. Clocking
+#### 4.3.1. Clocking,Latches and Flip-Flop
 
-#### 4.3.2. Latches and Flip-Flop
+#### 4.3.2. Registers
 
-#### 4.3.3. Registers
-
-#### 4.3.4. Pipelining
+#### 4.3.3. Pipelining
 
 - "Pipelining of Arithmetic Functions", IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
 
@@ -89,13 +89,11 @@ Collection of Educational Document related to Computer Architecture.
 
 - "Architecture of the IBM System/360", IBM Journal of Research and Development (Volume: 44, Issue: 1.2, Jan. 2000)
 
-#### 5.2.2. Steering Instructions
+#### 5.2.2. Instruction Handling
 
 - "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling", IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
 
-#### 5.2.3. Call and Return
-
-#### 5.2.4. Computer System
+#### 5.2.3. Computer System
 
 - "IBM system/360 principles of operation", IBM Press, January 1964
 
@@ -145,6 +143,8 @@ Collection of Educational Document related to Computer Architecture.
 #### 5.6.2. Data-Level Parallelism
 
 - "Subword parallelism with MAX-2", IEEE Micro, Volume: 16, Issue: 4, Aug 1996
+  
+- "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
 
 #### 5.6.3. Thread-Level Parallelism
 
@@ -183,6 +183,7 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 8.1.2. Wire Delay
 
+- "The future of wires", Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
 
 ### 8.2. Networks-on-Chip
 
@@ -218,6 +219,8 @@ Collection of Educational Document related to Computer Architecture.
 ### 4.2. Transistor
 
 #### 4.2.1. Band-Gap and Junction
+
+- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Proceedings of the IRE ( Volume: 45, Issue: 9, Sept. 1957)
 
 #### 4.2.2. Historical Review of Transistor
 
