@@ -26,17 +26,17 @@ Collection of Educational Document related to Computer Architecture.
 
 ## 4. Digital Logic Circuit and its Design
 
-### 4.1. Boolean Algebra
+### 4.1. Boolean Algebra and Logic Circuit
 
 #### 4.1.1.Boolean Algebra
 
 - "Elements of Boolean Algebra for the Study of Information-Handling Systems", Proceedings of the IRE (Volume: 41, Issue: 10, Oct. 1953)
 
-#### 4.1.2. Logic Gates
+#### 4.1.2. Logic Gate Primitives
 
-#### 4.1.3. Logic Gate Primitives
+#### 4.1.3. Combinatorial Logic Circuit
 
-#### 4.1.4. Combinatorial Logic CIrcuit
+- "A Truth Table Method for the Synthesis of Combinational Logic", IRE Transactions on Electronic Computers (Volume: EC-10, Issue: 4, Dec. 1961)
 
 ### 4.2. Finite State Machine
 
@@ -52,7 +52,7 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 4.3. Synchronous Logic and Pipelining
 
-#### 4.3.1. Clocking,Latches and Flip-Flop
+#### 4.3.1. Clocking, Latches and Flip-Flop
 
 #### 4.3.2. Registers
 
@@ -172,6 +172,8 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 6.2. Non-Volatile Memories
 
+- "Emerging Memory Technologies: Recent Trends and Prospects", IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
+
 
 ## 8. Interconnect Architecture
 
@@ -203,6 +205,8 @@ Collection of Educational Document related to Computer Architecture.
 
 
 ## 9. Distributed System Architecture
+
+### 9.1. Many-core Microprocessors
 
 ## 10. Programming Model
 
