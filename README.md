@@ -1,15 +1,17 @@
 # RiCA: Readings in Computer Architecture
 
-**Lisence** : Creative Commons v1.0 Universal
+**Licence** : Creative Commons v1.0 Universal
 
 ## 1. Purpose of This Site
 Collection of Educational Document related to Computer Architecture.
 
 ## 2. Target Readers
-- Undergraduate Students related to Computer Science and Engineering
-- Undergraduate Students related to Information Technology
-- Undergraduate Students related to Electric and Electrical Engineering
-- Or, Person having above Background(s)
+Undergraduate Students related to 
+- Computer Science and Engineering
+- Electric and Electrical Engineering
+- Information Science and Engineering
+
+Or, Person having above Background(s)
 
 ## 3. Category of Collection
 
@@ -123,7 +125,7 @@ Collection of Educational Document related to Computer Architecture.
 
 - "An Efficient Algorithm for Exploiting Multiple Arithmetic Units", IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
 
-- "Instruction Issue Logic in Pipelined Supercomputers", IEEE Transactions on Computers ( Volume: C-33, Issue: 11, Nov. 1984)
+- "Instruction Issue Logic in Pipelined Supercomputers", IEEE Transactions on Computers (Volume: C-33, Issue: 11, Nov. 1984)
 
 - "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", IEEE Transactions on Computers (Volume: C-36, Issue: 12, Dec. 1987)
 
@@ -142,7 +144,7 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 5.6.2. Data-Level Parallelism
 
-- "Subword parallelism with MAX-2", IEEE Micro, Volume: 16, Issue: 4, Aug 1996
+- "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
   
 - "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
 
@@ -154,7 +156,7 @@ Collection of Educational Document related to Computer Architecture.
 
 ### 5.7. Exception and Interruption
 
-- "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, Volume: 37, Issue: 5, May 1988
+- "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, (Volume: 37, Issue: 5, May 1988)
 
 
 ## 6. Storage Architecture
@@ -181,7 +183,7 @@ Collection of Educational Document related to Computer Architecture.
 
 #### 8.1.1. Crosstalk
 
-- "Reflection and crosstalk in logic circuit interconnections", IEEE Spectrum ( Volume: 7, Issue: 7, July 1970)
+- "Reflection and crosstalk in logic circuit interconnections", IEEE Spectrum (Volume: 7, Issue: 7, July 1970)
 
 #### 8.1.2. Wire Delay
 
