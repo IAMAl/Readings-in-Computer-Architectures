@@ -191,7 +191,7 @@ Or, Person having above Background(s)
 
 ### 8.2. Networks-on-Chip
 
-- "Route packets, not wires: on-chip inteconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
+- "Route packets, not wires: on-chip interconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
 - "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
 
