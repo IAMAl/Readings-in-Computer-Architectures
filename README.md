@@ -3,10 +3,13 @@
 **Licence** : Creative Commons v1.0 Universal
 
 ## 1. Purpose of This Site
+
 Collection of Educational Document related to Computer Architecture.
 
 ## 2. Target Readers
-Undergraduate Students related to 
+
+Undergraduate Students related to
+
 - Computer Science and Engineering
 - Electric and Electrical Engineering
 - Information Science and Engineering
@@ -14,7 +17,6 @@ Undergraduate Students related to
 Or, Person having above Background(s)
 
 ## 3. Category of Collection
-
 
 1. Digital Logic Circuit and its Design
 2. Processor Architecture
@@ -24,7 +26,6 @@ Or, Person having above Background(s)
 6. Programming Model
 7. Semiconductor Technology
 8. Cost and Performance
-
 
 ## 4. Digital Logic Circuit and its Design
 
@@ -111,7 +112,7 @@ Or, Person having above Background(s)
 
 ### 5.4. Pipelined Processor
 
-#### 5.4.1. Pipelining and Hazards
+#### 5.4.1. Hazards and Bypassing
 
 - "The performance impact of incomplete bypassing in processor pipelines", Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
 
@@ -142,11 +143,15 @@ Or, Person having above Background(s)
 
 - "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
 
+- "A Survey of Techniques for Dynamic Branch Prediction", ArXiv, 2018
+
 #### 5.6.2. Data-Level Parallelism
 
 - "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
   
 - "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
+
+- "Vector Microprocessors", PhD Thesis, 1998
 
 #### 5.6.3. Thread-Level Parallelism
 
