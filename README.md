@@ -106,7 +106,9 @@ Or, Person having above Background(s)
 
 ### 5.3. Processor
 
-#### 5.3.1. Mapping State Diagram to Processing Flow
+#### 5.3.1. Instruction Set: Mapping State Diagram to Processing Flow
+
+- "VLSI Processor Architecture", IEEE Transactions on Computers ( Volume: C-33, Issue: 12, Dec. 1984)
 
 #### 5.3.2. Mapping Processing Flow to FSM based Processor
 
@@ -134,6 +136,7 @@ Or, Person having above Background(s)
 
 - "The microarchitecture of superscalar processors", Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
 
+- "A 600 MHz superscalar RISC microprocessor with out-of-order execution", 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
 
 ### 5.6. Parallelism: Limits of Processors
 
@@ -142,6 +145,8 @@ Or, Person having above Background(s)
 #### 5.6.1. Instruction-Level Parallelism
 
 - "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
+
+- "Checkpoint processing and recovery: towards scalable large instruction window processors", Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003. MICRO-36
 
 - "A Survey of Techniques for Dynamic Branch Prediction", ArXiv, 2018
 
@@ -156,6 +161,8 @@ Or, Person having above Background(s)
 #### 5.6.3. Thread-Level Parallelism
 
 - "The case for a single-chip multiprocessor", ACM SIGPLAN Notices, September 1996
+
+- "Simultaneous multithreading: a platform for next-generation processors", IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
 
 - "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
 
@@ -175,6 +182,10 @@ Or, Person having above Background(s)
 #### 6.1.3. Cache Memories
 
 - "Evaluation techniques for storage hierarchies", IBM Systems Journal (Volume: 9, Issue: 2, 1970)
+
+- "Evaluating associativity in CPU caches", IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
+
+- "Fundamental Limits of Caching", IEEE Transactions on Information Theory ( Volume: 60, Issue: 5, May 2014)
 
 
 ### 6.2. Non-Volatile Memories
@@ -198,15 +209,21 @@ Or, Person having above Background(s)
 
 - "Route packets, not wires: on-chip interconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
+- "Evaluating Bufferless Flow Control for On-chip Networks", 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip
+
 - "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
 
 ### 8.3. Livelock and Deadlock
 
 - "Some Deadlock Properties of Computer Systems", ACM Computing Surveys, September 1972
 
+- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
+
 ### 8.4. Routing on a Chip
 
-- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers, (Volume: C-36, Issue: 5, May 1987)
+- "The Turn Model for Adaptive Routing", Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
+
+- "A survey of wormhole routing techniques in direct networks", Computer ( Volume: 26, Issue: 2, Feb. 1993)
 
 - "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
 
@@ -214,6 +231,8 @@ Or, Person having above Background(s)
 ## 9. Distributed System Architecture
 
 ### 9.1. Many-core Microprocessors
+
+- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers ( Volume: C-28, Issue: 9, Sept. 1979)
 
 ## 10. Programming Model
 
@@ -264,3 +283,8 @@ Or, Person having above Background(s)
 #### 11.1.1. Energy Consumption on Microprocessors
 
 - "Energy dissipation in general purpose microprocessors", IEEE Journal of Solid-State Circuits (Volume: 31, Issue: 9, Sep 1996)
+
+#### 11.1.2. Energy Consumption on DRAMs
+
+- "Design of ion-implanted MOSFET's with very small physical dimensions", IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
+
