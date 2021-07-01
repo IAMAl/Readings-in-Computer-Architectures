@@ -134,15 +134,21 @@ Or, Person having above Background(s)
 
 #### 5.5.2. Superscalar Processors
 
+- "The Alpha AXP architecture and 21064 processor", IEEE Micro ( Volume: 13, Issue: 3, June 1993)
+
 - "The microarchitecture of superscalar processors", Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
 
 - "A 600 MHz superscalar RISC microprocessor with out-of-order execution", 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
 
-### 5.6. Parallelism: Limits of Processors
+### 5.6. Vector Processors
+
+- "Vector Microprocessors", PhD Thesis, 1998
+
+### 5.7. Parallelism: Limits of Processors
 
 - "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
 
-#### 5.6.1. Instruction-Level Parallelism
+#### 5.7.1. Instruction-Level Parallelism
 
 - "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
 
@@ -150,15 +156,14 @@ Or, Person having above Background(s)
 
 - "A Survey of Techniques for Dynamic Branch Prediction", ArXiv, 2018
 
-#### 5.6.2. Data-Level Parallelism
+#### 5.7.2. Data-Level Parallelism
 
 - "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
   
 - "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
 
-- "Vector Microprocessors", PhD Thesis, 1998
 
-#### 5.6.3. Thread-Level Parallelism
+#### 5.7.3. Thread-Level Parallelism
 
 - "The case for a single-chip multiprocessor", ACM SIGPLAN Notices, September 1996
 
@@ -166,7 +171,7 @@ Or, Person having above Background(s)
 
 - "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
 
-### 5.7. Exception and Interruption
+### 5.8. Exception and Interruption
 
 - "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, (Volume: 37, Issue: 5, May 1988)
 
