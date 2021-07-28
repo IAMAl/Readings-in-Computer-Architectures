@@ -76,9 +76,9 @@ Or, Person having above Background(s)
 
 ### 5.1. Programming and Instruction Set
 
-#### 5.1.1. Mapping State Diagram to Programming
+#### 5.1.1. Mapping State Diagram to Program
 
-#### 5.1.2. Mapping Programming to Instruction and Instruction Set
+#### 5.1.2. Mapping Program to Instruction Stream
 
 #### 5.1.3. Instruction Set Architecture
 
@@ -115,6 +115,8 @@ Or, Person having above Background(s)
 ### 5.4. Pipelined Processor
 
 #### 5.4.1. Hazards and Bypassing
+
+- "The design space of register renaming techniques", IEEE Micro (Volume: 20, Issue: 5, Sep/Oct 2000)
 
 - "The performance impact of incomplete bypassing in processor pipelines", Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
 
@@ -172,8 +174,6 @@ Or, Person having above Background(s)
 - "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
   
 - "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
-
-
 
 
 
@@ -250,7 +250,11 @@ Or, Person having above Background(s)
 
 - "Baring it all to Software: The Raw Machines", Computer (Volume: 30, Issue:  9, September 1997)
 
-### 8.1.2. Cache Memory Protocol
+### 8.1.2. Memory Coherency
+
+- "Shared memory consistency models: a tutorial", Computer (Volume: 29, Issue: 12, Dec 1996)
+
+### 8.1.3. Cache Memory Protocol
 
 ## 9. Programming Model
 
