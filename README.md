@@ -25,7 +25,7 @@ Or, Person having above Background(s)
 5. Distributed System Architecture
 6. Programming Model
 7. Semiconductor Technology
-8. Cost and Performance
+8. Constraint and Performance
 
 ## 4. Digital Logic Circuit and its Design
 
@@ -144,6 +144,8 @@ Or, Person having above Background(s)
 
 - "Vector Microprocessors", PhD Thesis, 1998
 
+- "Vector architectures: past, present and future", Proceedings of the 12th international conference on SupercomputingJuly 1998
+
 ### 5.7. Parallelism: Limits of Processors
 
 - "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
@@ -156,12 +158,8 @@ Or, Person having above Background(s)
 
 - "A Survey of Techniques for Dynamic Branch Prediction", ArXiv, 2018
 
-#### 5.7.2. Data-Level Parallelism
 
-- "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
-  
-- "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
-
+#### 5.7.2. BasicBlock-Level Parallelism
 
 #### 5.7.3. Thread-Level Parallelism
 
@@ -169,7 +167,15 @@ Or, Person having above Background(s)
 
 - "Simultaneous multithreading: a platform for next-generation processors", IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
 
-- "Converting thread-level parallelism to instruction-level parallelism via simultaneous multithreading", ACM Transactions on Computer Systems, August 1997
+#### 5.7.4. Data-Level Parallelism
+
+- "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
+  
+- "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
+
+
+
+
 
 ### 5.8. Exception and Interruption
 
@@ -184,7 +190,13 @@ Or, Person having above Background(s)
 
 #### 6.1.2. Static RAM
 
-#### 6.1.3. Cache Memories
+
+### 6.2. Non-Volatile Memories
+
+- "Emerging Memory Technologies: Recent Trends and Prospects", IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
+
+
+### 6.3. Cache Memories
 
 - "Evaluation techniques for storage hierarchies", IBM Systems Journal (Volume: 9, Issue: 2, 1970)
 
@@ -193,24 +205,21 @@ Or, Person having above Background(s)
 - "Fundamental Limits of Caching", IEEE Transactions on Information Theory ( Volume: 60, Issue: 5, May 2014)
 
 
-### 6.2. Non-Volatile Memories
+## 7. Interconnect Architecture
 
-- "Emerging Memory Technologies: Recent Trends and Prospects", IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
+### 7.1. Signaling
 
-
-## 8. Interconnect Architecture
-
-### 8.1. Signaling
-
-#### 8.1.1. Crosstalk
+#### 7.1.1. Crosstalk
 
 - "Reflection and crosstalk in logic circuit interconnections", IEEE Spectrum (Volume: 7, Issue: 7, July 1970)
 
-#### 8.1.2. Wire Delay
+#### 7.1.2. Wire Delay
 
 - "The future of wires", Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
 
-### 8.2. Networks-on-Chip
+- "International Technology Roadmap for Semiconductors", Semiconductor Industry Association, 2001
+
+### 7.2. Networks-on-Chip
 
 - "Route packets, not wires: on-chip interconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
@@ -218,13 +227,13 @@ Or, Person having above Background(s)
 
 - "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
 
-### 8.3. Livelock and Deadlock
+### 7.3. Livelock and Deadlock
 
 - "Some Deadlock Properties of Computer Systems", ACM Computing Surveys, September 1972
 
 - "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
 
-### 8.4. Routing on a Chip
+### 7.4. Routing on a Chip
 
 - "The Turn Model for Adaptive Routing", Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
 
@@ -233,63 +242,87 @@ Or, Person having above Background(s)
 - "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
 
 
-## 9. Distributed System Architecture
+## 8. Distributed System Architecture
 
-### 9.1. Many-core Microprocessors
+### 8.1.1. Many-core Microprocessors
 
-- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers ( Volume: C-28, Issue: 9, Sept. 1979)
+- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers (Volume: C-28, Issue: 9, Sept. 1979)
 
-## 10. Programming Model
+- "Baring it all to Software: The Raw Machines", Computer (Volume: 30, Issue:  9, September 1997)
+
+### 8.1.2. Cache Memory Protocol
+
+## 9. Programming Model
 
 
 
-## 4. Semiconductor Technology
+## 10. Semiconductor Technology
 
-### 4.1. Band-Gap Model
+### 10.1. Band-Gap Model
 
-#### 4.1.1. Band Theory and Its Band-Gap
+#### 10.1.1. Band Theory and Its Band-Gap
 
-#### 4.1.2. Doping
+#### 10.1.2. Doping
 
-### 4.2. Transistor
+### 10.2. Transistor
 
-#### 4.2.1. Band-Gap and Junction
+#### 10.2.1. Band-Gap and Junction
 
 - "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Proceedings of the IRE (Volume: 45, Issue: 9, Sept. 1957)
 
-#### 4.2.2. Historical Review of Transistor
+#### 10.2.2. Historical Review of Transistor
 
 - "The invention of the transistor", Proceedings of the IEEE (Volume: 86, Issue: 1, Jan. 1998)
 
-### 4.3. Fabrication
+- "Evolution of the MOS transistor-from conception to VLSI", Proceedings of the IEEE (Volume: 76, Issue: 10, Oct. 1988)
 
-#### 4.3.1. Fabrication Process
 
-#### 4.3.2. Integrated Circuits
+### 10.3. Fabrication
 
-- "Miniature semiconductor integrated circuit", US3115581A, US Patent
+#### 10.3.1. Fabrication Process
 
-#### 4.3.3. Packaging
+- "Stabilization of Silicon Surfaces by Thermally Grown Oxides", Bell System Technical Journal, May 1959
 
-### 4.4. Interposer and Die-Stacking
+#### 10.3.2. Integrated Circuits
 
-#### 4.4.1. Interposer
+- "Miniature semiconductor integrated circuit", US3115581A, U.S. Patent
+
+- "Semiconductor Device and Lead Structure", US2981877, U.S. Patent
+
+#### 10.3.3. Packaging
+
+### 10.4. Interposer, Die-Stacking, and Chiplet
+
+#### 10.4.1. Interposer
 
 - "Interposer Technologies for High-Performance Applications", IEEE Transactions on Components, Packaging and Manufacturing Technology (Volume: 7, Issue: 6, June 2017)
 
-#### 4.4.2. Chiplet
+
+#### 10.4.2. Die-Stacking
+
+
+#### 10.4.3. Chiplet
 
 - "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Volume: 28, Issue: 11, Nov. 2020)
 
-## 11. Cost and Performance
+## 11. Constraint and Performance
 
-### 11.1. Energy Consumption
+### 11.1. Scaling
 
-#### 11.1.1. Energy Consumption on Microprocessors
+#### 11.1.1. MOS-FET
+
+- "Cramming more components onto integrated circuits, Reprinted from Electronics", IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
+
+#### 11.1.2. Power Consumption
+
+- "Design of ion-implanted MOSFET's with very small physical dimensions", IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
+
+
+### 11.2. Energy Consumption
+
+- "Computing's energy problem (and what we can do about it)", IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
 
 - "Energy dissipation in general purpose microprocessors", IEEE Journal of Solid-State Circuits (Volume: 31, Issue: 9, Sep 1996)
 
-#### 11.1.2. Energy Consumption on DRAMs
-
-- "Design of ion-implanted MOSFET's with very small physical dimensions", IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
+- "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", DAC Design Automation Conference, 2012
 
