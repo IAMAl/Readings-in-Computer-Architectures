@@ -266,9 +266,13 @@ Or, Person having above Background(s)
 
 #### 10.1.1. Band Theory and Its Band-Gap
 
+- "Characteristics of Electrons in Solids", IRE Transactions on Education (Volume: 3, Issue: 4, Dec. 1960)
+
 #### 10.1.2. Doping
 
 ### 10.2. Transistor
+
+- "Some circuit aspects of the transistor", The Bell System Technical Journal (Volume: 28, Issue: 3, July 1949)
 
 #### 10.2.1. Band-Gap and Junction
 
