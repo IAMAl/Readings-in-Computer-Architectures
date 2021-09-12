@@ -309,6 +309,8 @@ Or, Person having above Background(s)
 
 - "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Volume: 28, Issue: 11, Nov. 2020)
 
+- "	A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", HotChips 31, 2019
+
 ## 11. Constraint and Performance
 
 ### 11.1. Scaling
