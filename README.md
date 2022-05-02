@@ -33,23 +33,23 @@ Or, Person having above Background(s)
 
 #### 4.1.1.Boolean Algebra
 
-- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Proceedings of the IRE (Volume: 41, Issue: 10, Oct. 1953)
+- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Robert Serrell, Proceedings of the IRE (Volume: 41, Issue: 10, Oct. 1953)
 
 #### 4.1.2. Logic Gate Primitives
 
 #### 4.1.3. Combinatorial Logic Circuit
 
-- "A Truth Table Method for the Synthesis of Combinational Logic", IRE Transactions on Electronic Computers (Volume: EC-10, Issue: 4, Dec. 1961)
+- "A Truth Table Method for the Synthesis of Combinational Logic", Sheldon B. Akers, IRE Transactions on Electronic Computers (Volume: EC-10, Issue: 4, Dec. 1961)
 
 ### 4.2. Finite State Machine
 
 #### 4.2.1. State Diagram
 
-- "Regular Algebra and Finite Machines", Dover Books on Mathematics
+- "Regular Algebra and Finite Machines", John Horton Conway, Dover Books on Mathematics
 
 #### 4.2.2. Mapping State Diagram to FSM
 
-- "Introduction to the theory of finite-state machines", McGraw Hill; First Edition, First Printing (January 1, 1962)
+- "Introduction to the theory of finite-state machines", S. Seshu, McGraw Hill; First Edition, First Printing (January 1, 1962)
 
 #### 4.2.3. Optimization
 
@@ -61,7 +61,7 @@ Or, Person having above Background(s)
 
 #### 4.3.3. Pipelining
 
-- "Pipelining of Arithmetic Functions", IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
+- "Pipelining of Arithmetic Functions", Thomas G. Hallin and Michael J. Flynn, IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
 
 ### 4.4. Modular and Intellectual Properties
 
@@ -82,33 +82,33 @@ Or, Person having above Background(s)
 
 #### 5.1.3. Instruction Set Architecture
 
-- "MIPS: A microprocessor architecture", ACM SIGMICRO Newsletter, October 1982
+- "MIPS: A microprocessor architecture", John Hennessy, Norman Jouppi, Steven Przybylski, Christopher Rowen, Thomas Gross, Forest Baskett, John Gill, ACM SIGMICRO Newsletter, October 1982
 
-- "Reduced instruction set computer architecture", Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
+- "Reduced instruction set computer architecture", W. Stallings, Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
 
 ### 5.2. Computing Mechanism
 
 #### 5.2.1. Primitives to Compute
 
-- "Architecture of the IBM System/360", IBM Journal of Research and Development (Volume: 44, Issue: 1.2, Jan. 2000)
+- "Architecture of the IBM System/360", G. M. Amdahl, G. A. Blaauw, F. P. Brooks, IBM Journal of Research and Development (Volume: 44, Issue: 1.2, Jan. 2000)
 
 #### 5.2.2. Instruction Handling
 
-- "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling", IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
+- "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling", D. W. Anderson, F. J. Sparacio, R. M. Tomasulo, IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
 
 #### 5.2.3. Computer System
 
 - "IBM system/360 principles of operation", IBM Press, January 1964
 
-- "The CDC 6600 Project", Annals of the History of Computing (Volume: 2, Issue: 4, Oct.-Dec. 1980)
+- "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing (Volume: 2, Issue: 4, Oct.-Dec. 1980)
 
-- "The CRAY-1 computer system", Hardware Reference Manual, Cray Research, Inc., 1977
+- "The CRAY-1 computer system", Richard M. Russell, Hardware Reference Manual, Cray Research, Inc., 1977
 
 ### 5.3. Processor
 
 #### 5.3.1. Instruction Set: Mapping State Diagram to Processing Flow
 
-- "VLSI Processor Architecture", IEEE Transactions on Computers ( Volume: C-33, Issue: 12, Dec. 1984)
+- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers ( Volume: C-33, Issue: 12, Dec. 1984)
 
 #### 5.3.2. Mapping Processing Flow to FSM based Processor
 
@@ -116,70 +116,70 @@ Or, Person having above Background(s)
 
 #### 5.4.1. Hazards and Bypassing
 
-- "The design space of register renaming techniques", IEEE Micro (Volume: 20, Issue: 5, Sep/Oct 2000)
+- "The design space of register renaming techniques", D. Sima, IEEE Micro (Volume: 20, Issue: 5, Sep/Oct 2000)
 
-- "The performance impact of incomplete bypassing in processor pipelines", Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
+- "The performance impact of incomplete bypassing in processor pipelines", P.S. Ahuja, D.W. Clark, A. Rogers, Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
 
 #### 5.4.2. Pipeline Optimization
 
-- "The optimum pipeline depth for a microprocessor", Proceedings 29th Annual International Symposium on Computer Architecture, May 2002
+- "The optimum pipeline depth for a microprocessor", A. Hartstein; T.R. Puzak, Proceedings 29th Annual International Symposium on Computer Architecture, May 2002
 
 ### 5.5. Out-of-Order Enhancement
 
 #### 5.5.1. Out-of-Order Execution
 
-- "An Efficient Algorithm for Exploiting Multiple Arithmetic Units", IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
+- "An Efficient Algorithm for Exploiting Multiple Arithmetic Units", R. M. Tomasulo, IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
 
-- "Instruction Issue Logic in Pipelined Supercomputers", IEEE Transactions on Computers (Volume: C-33, Issue: 11, Nov. 1984)
+- "Instruction Issue Logic in Pipelined Supercomputers", Shlomo Weiss, James E. Smith, IEEE Transactions on Computers (Volume: C-33, Issue: 11, Nov. 1984)
 
-- "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", IEEE Transactions on Computers (Volume: C-36, Issue: 12, Dec. 1987)
+- "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", Wen-Mei W. Hwu, Yale N. Patt, IEEE Transactions on Computers (Volume: C-36, Issue: 12, Dec. 1987)
 
 #### 5.5.2. Superscalar Processors
 
-- "The Alpha AXP architecture and 21064 processor", IEEE Micro ( Volume: 13, Issue: 3, June 1993)
+- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro ( Volume: 13, Issue: 3, June 1993)
 
-- "The microarchitecture of superscalar processors", Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
+- "The microarchitecture of superscalar processors", J.E. Smith, G.S. Sohi, Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
 
-- "A 600 MHz superscalar RISC microprocessor with out-of-order execution", 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
+- "A 600 MHz superscalar RISC microprocessor with out-of-order execution", B.A. Gieseke, R.L. Allmon, D.W. Bailey, B.J. Benschneider, S.M. Britton, J.D. Clouser, H.R. Fair, J.A. Farrell, M.K. Gowan, C.L. Houghton, J.B. Keller, T.H. Lee, D.L. Leibholz, S.C. Lowell, M.D. Matson, R.J. Matthew, V. Peng, M.D. Quinn, D.A. Priore, M.J. Smith, K.E. Wilcox, 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
 
 ### 5.6. Vector Processors
 
-- "Vector Microprocessors", PhD Thesis, 1998
+- "Vector Microprocessors", K. Asanovic, PhD Thesis, 1998
 
-- "Vector architectures: past, present and future", Proceedings of the 12th international conference on SupercomputingJuly 1998
+- "Vector architectures: past, present and future", Roger Espasa, Mateo Valero, James E. Smith, Proceedings of the 12th international conference on SupercomputingJuly 1998
 
 ### 5.7. Parallelism: Limits of Processors
 
-- "Exploiting Instruction- and Data-Level Parallelism", IEEE Micro, September/October 1997, pp.20-27, vol. 17
+- "Exploiting Instruction- and Data-Level Parallelism", Roger Espasa, Mateo Valero, IEEE Micro, September/October 1997, pp.20-27, vol. 17
 
 #### 5.7.1. Instruction-Level Parallelism
 
-- "Limits of instruction-level parallelism", ACM SIGARCH Computer Architecture News, April 1991
+- "Limits of instruction-level parallelism", David W. Wall
+, ACM SIGARCH Computer Architecture News, April 1991
 
-- "Checkpoint processing and recovery: towards scalable large instruction window processors", Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003. MICRO-36
+- "Checkpoint processing and recovery: towards scalable large instruction window processors", H. Akkary, R. Rajwar, S.T. Srinivasang, Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003. MICRO-36
 
-- "A Survey of Techniques for Dynamic Branch Prediction", ArXiv, 2018
+- "A Survey of Techniques for Dynamic Branch Prediction", S Mittal, ArXiv, 2018
 
 
 #### 5.7.2. BasicBlock-Level Parallelism
 
 #### 5.7.3. Thread-Level Parallelism
 
-- "The case for a single-chip multiprocessor", ACM SIGPLAN Notices, September 1996
+- "The case for a single-chip multiprocessor", Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, Kunyung Chang, ACM SIGPLAN Notices, September 1996
 
-- "Simultaneous multithreading: a platform for next-generation processors", IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
+- "Simultaneous multithreading: a platform for next-generation processors", S.J. Eggers, J.S. Emer, H.M. Levy, J.L. Lo, R.L. Stamm, D.M. Tullsen, IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
 
 #### 5.7.4. Data-Level Parallelism
 
-- "Subword parallelism with MAX-2", IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
+- "Subword parallelism with MAX-2", Ruby B. Lee, IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
   
-- "Implementing streaming SIMD extensions on the Pentium III processor", IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
-
+- "Implementing streaming SIMD extensions on the Pentium III processor", S.K. Raman, V. Pentkovski, J. Keshava, IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
 
 
 ### 5.8. Exception and Interruption
 
-- "Implementing precise interrupts in pipelined processors", IEEE Transactions on Computers, (Volume: 37, Issue: 5, May 1988)
+- "Implementing precise interrupts in pipelined processors", J.E. Smith, A.R. Pleszkun, IEEE Transactions on Computers, (Volume: 37, Issue: 5, May 1988)
 
 
 ## 6. Storage Architecture
