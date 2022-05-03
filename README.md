@@ -193,16 +193,16 @@ Or, Person having above Background(s)
 
 ### 6.2. Non-Volatile Memories
 
-- "Emerging Memory Technologies: Recent Trends and Prospects", IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
+- "Emerging Memory Technologies: Recent Trends and Prospects", Shimeng Yu,  Pai-Yu Chen, IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
 
 
 ### 6.3. Cache Memories
 
-- "Evaluation techniques for storage hierarchies", IBM Systems Journal (Volume: 9, Issue: 2, 1970)
+- "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal (Volume: 9, Issue: 2, 1970)
 
-- "Evaluating associativity in CPU caches", IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
+- "Evaluating associativity in CPU caches", M.D. Hill, A.J. Smith, IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
 
-- "Fundamental Limits of Caching", IEEE Transactions on Information Theory ( Volume: 60, Issue: 5, May 2014)
+- "Fundamental Limits of Caching", Mohammad Ali Maddah-Ali, Urs Niesen, IEEE Transactions on Information Theory ( Volume: 60, Issue: 5, May 2014)
 
 
 ## 7. Interconnect Architecture
@@ -211,48 +211,49 @@ Or, Person having above Background(s)
 
 #### 7.1.1. Crosstalk
 
-- "Reflection and crosstalk in logic circuit interconnections", IEEE Spectrum (Volume: 7, Issue: 7, July 1970)
+- "Reflection and crosstalk in logic circuit interconnections", John A. DeFalco, IEEE Spectrum (Volume: 7, Issue: 7, July 1970)
 
 #### 7.1.2. Wire Delay
 
-- "The future of wires", Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
+- "The future of wires", R. Ho
+Computer Systems Laboratory, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
 
 - "International Technology Roadmap for Semiconductors", Semiconductor Industry Association, 2001
 
 ### 7.2. Networks-on-Chip
 
-- "Route packets, not wires: on-chip interconnection networks", DAC '01: Proceedings of the 38th annual Design Automation, 2001
+- "Route packets, not wires: on-chip interconnection networks", W.J. Dally, B. Towles, DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
-- "Evaluating Bufferless Flow Control for On-chip Networks", 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip
+- "Evaluating Bufferless Flow Control for On-chip Networks", George Michelogiannakis, Daniel Sanchez, William J. Dally, Christos Kozyrakis, 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip
 
-- "A survey of research and practices of Network-on-chip", ACM Computing Surveys, June 2006
+- "A survey of research and practices of Network-on-chip", Tobias Bjerregaard, Shankar Mahadevan, ACM Computing Surveys, June 2006
 
 ### 7.3. Livelock and Deadlock
 
-- "Some Deadlock Properties of Computer Systems", ACM Computing Surveys, September 1972
+- "Some Deadlock Properties of Computer Systems", Richard C. Holt, ACM Computing Surveys, September 1972
 
-- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
+- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", Dally, Seitz, IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
 
 ### 7.4. Routing on a Chip
 
-- "The Turn Model for Adaptive Routing", Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
+- "The Turn Model for Adaptive Routing", C.J. Glass, L.M. Ni, Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
 
-- "A survey of wormhole routing techniques in direct networks", Computer ( Volume: 26, Issue: 2, Feb. 1993)
+- "A survey of wormhole routing techniques in direct networks", L.M. Ni, P.K. McKinley, Computer ( Volume: 26, Issue: 2, Feb. 1993)
 
-- "Virtual-channel flow control", IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
+- "Virtual-channel flow control", W.J. Dally, IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
 
 
 ## 8. Distributed System Architecture
 
 ### 8.1.1. Many-core Microprocessors
 
-- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers (Volume: C-28, Issue: 9, Sept. 1979)
+- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", Lamport, IEEE Transactions on Computers (Volume: C-28, Issue: 9, Sept. 1979)
 
-- "Baring it all to Software: The Raw Machines", Computer (Volume: 30, Issue:  9, September 1997)
+- "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer (Volume: 30, Issue:  9, September 1997)
 
 ### 8.1.2. Memory Coherency
 
-- "Shared memory consistency models: a tutorial", Computer (Volume: 29, Issue: 12, Dec 1996)
+- "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer (Volume: 29, Issue: 12, Dec 1996)
 
 ### 8.1.3. Cache Memory Protocol
 
@@ -272,30 +273,30 @@ Or, Person having above Background(s)
 
 ### 10.2. Transistor
 
-- "Some circuit aspects of the transistor", The Bell System Technical Journal (Volume: 28, Issue: 3, July 1949)
+- "Some circuit aspects of the transistor", R. M. Ryder, R. J. Kircher, The Bell System Technical Journal (Volume: 28, Issue: 3, July 1949)
 
 #### 10.2.1. Band-Gap and Junction
 
-- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Proceedings of the IRE (Volume: 45, Issue: 9, Sept. 1957)
+- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Chih-tang Sah, Robert N. Noyce, William Shockley, Proceedings of the IRE (Volume: 45, Issue: 9, Sept. 1957)
 
 #### 10.2.2. Historical Review of Transistor
 
 - "The invention of the transistor", Proceedings of the IEEE (Volume: 86, Issue: 1, Jan. 1998)
 
-- "Evolution of the MOS transistor-from conception to VLSI", Proceedings of the IEEE (Volume: 76, Issue: 10, Oct. 1988)
+- "Evolution of the MOS transistor-from conception to VLSI", Sah Chih-Tang, Proceedings of the IEEE (Volume: 76, Issue: 10, Oct. 1988)
 
 
 ### 10.3. Fabrication
 
 #### 10.3.1. Fabrication Process
 
-- "Stabilization of Silicon Surfaces by Thermally Grown Oxides", Bell System Technical Journal, May 1959
+- "Stabilization of Silicon Surfaces by Thermally Grown Oxides", M. M. Atalla, E. Tannenbaum, E. J. Scheibner, Bell System Technical Journal, May 1959
 
 #### 10.3.2. Integrated Circuits
 
-- "Miniature semiconductor integrated circuit", US3115581A, U.S. Patent
+- "Miniature semiconductor integrated circuit", Jack S Kilby, US3115581A, U.S. Patent
 
-- "Semiconductor Device and Lead Structure", US2981877, U.S. Patent
+- "Semiconductor Device and Lead Structure", Robert N Noyce, US2981877, U.S. Patent
 
 #### 10.3.3. Packaging
 
@@ -303,7 +304,7 @@ Or, Person having above Background(s)
 
 #### 10.4.1. Interposer
 
-- "Interposer Technologies for High-Performance Applications", IEEE Transactions on Components, Packaging and Manufacturing Technology (Volume: 7, Issue: 6, June 2017)
+- "Interposer Technologies for High-Performance Applications", Ahmad Usman, Etizaz Shah, Nithanth B. Satishprasad, Jialou Chen, Steven A. Bohlemann, Sajjad H. Shami, Ali A. Eftekhar, Ali Adibi, IEEE Transactions on Components, Packaging and Manufacturing Technology (Volume: 7, Issue: 6, June 2017)
 
 
 #### 10.4.2. Die-Stacking
@@ -311,9 +312,9 @@ Or, Person having above Background(s)
 
 #### 10.4.3. Chiplet
 
-- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Volume: 28, Issue: 11, Nov. 2020)
+- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Volume: 28, Issue: 11, Nov. 2020)
 
-- "	A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", HotChips 31, 2019
+- "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany, HotChips 31, 2019
 
 ## 11. Constraint and Performance
 
@@ -321,18 +322,18 @@ Or, Person having above Background(s)
 
 #### 11.1.1. MOS-FET
 
-- "Cramming more components onto integrated circuits, Reprinted from Electronics", IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
+- "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
 
 #### 11.1.2. Power Consumption
 
-- "Design of ion-implanted MOSFET's with very small physical dimensions", IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
+- "Design of ion-implanted MOSFET's with very small physical dimensions", R.H. Dennard, F.H. Gaensslen, Hwa-Nien Yu, V.L. Rideout, E. Bassous, A.R. LeBlanc, IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
 
 
 ### 11.2. Energy Consumption
 
-- "Computing's energy problem (and what we can do about it)", IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
+- "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
 
-- "Energy dissipation in general purpose microprocessors", IEEE Journal of Solid-State Circuits (Volume: 31, Issue: 9, Sep 1996)
+- "Energy dissipation in general purpose microprocessors", R. Gonzalez, M. Horowitz, IEEE Journal of Solid-State Circuits (Volume: 31, Issue: 9, Sep 1996)
 
-- "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", DAC Design Automation Conference, 2012
+- "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", Michael B. Taylor, DAC Design Automation Conference, 2012
 
