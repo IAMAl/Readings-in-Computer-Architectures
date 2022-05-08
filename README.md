@@ -82,9 +82,11 @@ Or, Person having above Background(s)
 
 #### 5.1.3. Instruction Set Architecture
 
-- "MIPS: A microprocessor architecture", John Hennessy, Norman Jouppi, Steven Przybylski, Christopher Rowen, Thomas Gross, Forest Baskett, John Gill, ACM SIGMICRO Newsletter, October 1982
+- "The case for the reduced instruction set computer", David A. Patterson, David R. Ditzel, ACM SIGARCH Computer Architecture NewsVolume 8Issue 6October 1980 pp 25–33
 
-- "Reduced instruction set computer architecture", W. Stallings, Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
+- "Comments on "the case for the reduced instruction set computer," by Patterson and Ditzel", Douglas W. Clark, William D. Strecker, ACM SIGARCH Computer Architecture NewsVolume 8Issue 6October 1980 pp 34–38
+
+- "RISC versus CISC: a tale of two chips", Dileep Bhandarkar, ACM SIGARCH Computer Architecture NewsVolume 25Issue 1March 1997 pp 1–12
 
 ### 5.2. Computing Mechanism
 
@@ -152,6 +154,8 @@ Or, Person having above Background(s)
 
 - "Exploiting Instruction- and Data-Level Parallelism", Roger Espasa, Mateo Valero, IEEE Micro, September/October 1997, pp.20-27, vol. 17
 
+- "Tradeoff between data-, instruction-, and thread-level parallelism in stream processors", Jung Ho Ahn, Mattan Erez, William J. Dally, ICS '07: Proceedings of the 21st annual international conference on SupercomputingJune 2007 Pages 126–137
+
 #### 5.7.1. Instruction-Level Parallelism
 
 - "Limits of instruction-level parallelism", David W. Wall
@@ -215,8 +219,7 @@ Or, Person having above Background(s)
 
 #### 7.1.2. Wire Delay
 
-- "The future of wires", R. Ho
-Computer Systems Laboratory, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
+- "The future of wires", R. Ho, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
 
 - "International Technology Roadmap for Semiconductors", Semiconductor Industry Association, 2001
 
@@ -250,6 +253,8 @@ Computer Systems Laboratory, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE (V
 - "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", Lamport, IEEE Transactions on Computers (Volume: C-28, Issue: 9, Sept. 1979)
 
 - "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer (Volume: 30, Issue:  9, September 1997)
+
+- "Dark Silicon and the End of Multicore Scaling", Hadi Esmaeilzadeh, Emily Blem, Renee St. Amant, Karthikeyan Sankaralingam, Doug Burger, IEEE Micro ( Volume: 32, Issue: 3, May-June 2012)
 
 ### 8.1.2. Memory Coherency
 
