@@ -105,7 +105,9 @@ Or, Person having the above Background(s)
 
 - "A 600 MHz superscalar RISC microprocessor with out-of-order execution", B.A. Gieseke, R.L. Allmon, D.W. Bailey, B.J. Benschneider, S.M. Britton, J.D. Clouser, H.R. Fair, J.A. Farrell, M.K. Gowan, C.L. Houghton, J.B. Keller, T.H. Lee, D.L. Leibholz, S.C. Lowell, M.D. Matson, R.J. Matthew, V. Peng, M.D. Quinn, D.A. Priore, M.J. Smith, K.E. Wilcox, 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
 
-### 3.4. Vector Processors
+### 3.4. Vector Microprocessors
+
+- "Advanced Vector Architectures", Roger Espasa, Ph.D. Thesis, 1997
 
 - "Vector Microprocessors", K. Asanovic, Ph.D. Thesis, 1998
 
@@ -131,6 +133,9 @@ Or, Person having the above Background(s)
 - "The case for a single-chip multiprocessor", Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, Kunyung Chang, ACM SIGPLAN Notices, September 1996
 
 - "Simultaneous multithreading: a platform for next-generation processors", S.J. Eggers, J.S. Emer, H.M. Levy, J.L. Lo, R.L. Stamm, D.M. Tullsen, IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
+
+- "Niagara: a 32-way multithreaded Sparc processor," P. Kongetira, K. Aingaran and K. Olukotun, IEEE Micro, vol. 25, no. 2, pp. 21-29, March-April 2005
+
 
 #### 3.5.4. Data-Level Parallelism
 
@@ -196,6 +201,8 @@ Or, Person having the above Background(s)
 - "Some Deadlock Properties of Computer Systems", Richard C. Holt, ACM Computing Surveys, September 1972
 
 - "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", Dally, Seitz, IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
+  
+- "High Performance Communications In Processor Networks," C. R. Jesshope, P. R. Miller and J. T. Yantchev, The 16th Annual International Symposium on Computer Architecture, 1989, pp. 150-157
 
 ### 5.4. Routing on a Chip
 
@@ -214,13 +221,9 @@ Or, Person having the above Background(s)
 
 - "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer (Volume: 30, Issue:  9, September 1997)
 
-### 6.1.2. Memory Coherency
+### 6.1.2. Memory Coherency and Protocol
 
 - "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer (Volume: 29, Issue: 12, Dec 1996)
-
-### 6.1.3. Cache Memory Protocol
-
-
 
 ## 7. Digital Logic Circuit and its Design
 
@@ -264,9 +267,6 @@ Or, Person having the above Background(s)
 
 #### 7.4.2. Reuse of Module
 
-#### 7.4.3. Hardware Description Languages
-
-
 
 ## 8. Semiconductor Technology
 
@@ -276,9 +276,13 @@ Or, Person having the above Background(s)
 
 - "Characteristics of Electrons in Solids", IRE Transactions on Education (Volume: 3, Issue: 4, Dec. 1960)
 
+- "Bandgap and transport properties of Si/sub 1-x/Ge/sub x/ by analysis of nearly ideal Si/Si/sub 1-x/Ge/sub x//Si heterojunction bipolar transistors," C. A. King, J. L. Hoyt and J. F. Gibbons, IEEE Transactions on Electron Devices, vol. 36, no. 10, pp. 2093-2104, Oct. 1989
+
 #### 8.1.2. Doping
 
 ### 8.2. Transistor
+
+- "The transistor — A new amplifier", Electrical Engineering, vol. 67, no. 8, pp. 740-740, Aug. 1948
 
 - "Some circuit aspects of the transistor", R. M. Ryder, R. J. Kircher, The Bell System Technical Journal (Volume: 28, Issue: 3, July 1949)
 
