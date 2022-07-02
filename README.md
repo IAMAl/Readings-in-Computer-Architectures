@@ -317,6 +317,8 @@ Or, Person having the above Background(s)
 
 - "Interposer Technologies for High-Performance Applications", Ahmad Usman, Etizaz Shah, Nithanth B. Satishprasad, Jialou Chen, Steven A. Bohlemann, Sajjad H. Shami, Ali A. Eftekhar, Ali Adibi, IEEE Transactions on Components, Packaging and Manufacturing Technology (Volume: 7, Issue: 6, June 2017)
 
+- "Architecture, Chip, and Package Co-Design Flow for 2.5D IC Design Enabling Heterogeneous IP Reuse", Kim, Jinwoo and Murali, Gauthaman and Park, Heechun and Qin, Eric and Kwon, Hyoukjun and Chaitanya, Venkata and Chekuri, Krishna and Dasari, Nihar and Singh, Arvind and Lee, Minah and Torun, Hakki Mert and Roy, Kallol and Swaminathan, Madhavan and Mukhopadhyay, Saibal and Krishna, Tushar and Lim, Sung Kyu, Proceedings of the 56th Annual Design Automation Conference, 2019
+
 
 #### 8.4.2. Die-Stacking
 
