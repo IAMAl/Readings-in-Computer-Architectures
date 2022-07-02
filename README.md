@@ -311,6 +311,8 @@ Or, Person having the above Background(s)
 
 #### 8.3.3. Packaging
 
+- "Packaging technologies for supercomputer system", H. Hamaguchi, T. Watari and A. Dohya, IEEE International Symposium on Circuits and Systems (ISCAS), 1991, pp. 2292-2295 vol.4
+
 ### 8.4. Interposer, Die-Stacking, and Chiplet
 
 #### 8.4.1. Interposer
