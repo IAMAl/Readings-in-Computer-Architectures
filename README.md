@@ -39,6 +39,9 @@ Or, Person having the above Background(s)
 
 #### 2.1.2. Mapping Program to Instruction Stream
 
+- "Programming Languages — The First 25 Years", Wegner, IEEE Transactions on Computers ( Volume: C-25, Issue: 12, December 1976)
+
+- "ILLIAC IV Software and Application Programming", D.J. Kuck, IEEE Transactions on Computers ( Volume: C-17, Issue: 8, August 1968)
 
 ### 2.2. Computing Mechanism
 
@@ -280,6 +283,8 @@ Or, Person having the above Background(s)
 
 #### 8.1.2. Doping
 
+- "The influence of heavy doping on the emitter efficiency of a bipolar transistor", H.J.J. De Man, IEEE Transactions on Electron Devices ( Volume: 18, Issue: 10, October 1971)
+
 ### 8.2. Transistor
 
 - "The transistor — A new amplifier", Electrical Engineering, vol. 67, no. 8, pp. 740-740, Aug. 1948
@@ -331,15 +336,17 @@ Or, Person having the above Background(s)
 
 - "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany, HotChips 31, 2019
 
+- "Design and Analysis of an APU for Exascale Computing", Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael J. Schulte, Mike Ignatowski, Bradford M. Beckmann, William C. Brantley, Joseph L. Greathouse, Wei Huang, Arun Karunanithi, Onur Kayiran, Mitesh Meswani, Indrani Paul, Matthew Poremba, Steven Raasch, Steven K. Reinhardt, Greg Sadowski, Vilas Sridharan, IEEE International Symposium on High Performance Computer Architecture (HPCA), 2017
+
 ## 9. Constraint and Performance
 
 ### 9.1. Scaling
 
-#### 9.1.1. MOS-FET
+#### 9.1.1. MOS-FET: Moore's Law
 
 - "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
 
-#### 9.1.2. Power Consumption
+#### 9.1.2. Power Consumption: Dennard's Scaling
 
 - "Design of ion-implanted MOSFET's with very small physical dimensions", R.H. Dennard, F.H. Gaensslen, Hwa-Nien Yu, V.L. Rideout, E. Bassous, A.R. LeBlanc, IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
 
