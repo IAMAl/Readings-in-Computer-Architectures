@@ -86,9 +86,16 @@ Or, Person having the above Background(s)
 
 - "The performance impact of incomplete bypassing in processor pipelines", P.S. Ahuja, D.W. Clark, A. Rogers, Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
 
-#### 3.2.2. Pipeline Optimization
+#### 3.2.2. Branch Instruction and Prediction
+
+- "Hardware/software tradeoffs for increased performance", John Hennessy, Norman Jouppi, Forest Baskett, Thomas Gross, John Gill, Proceedings of the first international symposium on Architectural support for programming languages and operating systems (ASPLOS I), 1982
+
+- "A Survey of Techniques for Dynamic Branch Prediction", S Mittal, ArXiv, 2018
+
+#### 3.2.3. Pipeline Optimization
 
 - "The optimum pipeline depth for a microprocessor", A. Hartstein; T.R. Puzak, Proceedings 29th Annual International Symposium on Computer Architecture, May 2002
+
 
 ### 3.3. Out-of-Order Enhancement
 
@@ -102,11 +109,12 @@ Or, Person having the above Background(s)
 
 #### 3.3.2. Superscalar Processors
 
-- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro ( Volume: 13, Issue: 3, June 1993)
-
 - "The microarchitecture of superscalar processors", J.E. Smith, G.S. Sohi, Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
 
-- "A 600 MHz superscalar RISC microprocessor with out-of-order execution", B.A. Gieseke, R.L. Allmon, D.W. Bailey, B.J. Benschneider, S.M. Britton, J.D. Clouser, H.R. Fair, J.A. Farrell, M.K. Gowan, C.L. Houghton, J.B. Keller, T.H. Lee, D.L. Leibholz, S.C. Lowell, M.D. Matson, R.J. Matthew, V. Peng, M.D. Quinn, D.A. Priore, M.J. Smith, K.E. Wilcox, 1997 IEEE International Solids-State Circuits Conference. Digest of Technical Papers
+- "The design space of register renaming techniques", D.Sima, IEEE Micro ( Volume: 20, Issue: 5, Sept.-Oct. 2000)
+
+- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro ( Volume: 13, Issue: 3, June 1993)
+
 
 ### 3.4. Vector Microprocessors
 
@@ -125,9 +133,6 @@ Or, Person having the above Background(s)
 - "Limits of instruction-level parallelism", David W. Wall, ACM SIGARCH Computer Architecture News, April 1991
 
 - "Checkpoint processing and recovery: towards scalable large instruction window processors", H. Akkary, R. Rajwar, S.T. Srinivasang, Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003. MICRO-36
-
-- "A Survey of Techniques for Dynamic Branch Prediction", S Mittal, ArXiv, 2018
-
 
 #### 3.5.2. Basic Block-Level Parallelism
 
@@ -168,16 +173,18 @@ Or, Person having the above Background(s)
 
 ### 4.3. Cache Memories
 
+- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer ( Volume: 6, Issue: 3, March 1973)
+
 - "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal (Volume: 9, Issue: 2, 1970)
 
-- "Evaluating associativity in CPU caches", M.D. Hill, A.J. Smith, IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
-
-- "Fundamental Limits of Caching", Mohammad Ali Maddah-Ali, Urs Niesen, IEEE Transactions on Information Theory ( Volume: 60, Issue: 5, May 2014)
+- "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
 
 
 ## 5. Interconnect Architecture
 
 ### 5.1. Signaling
+
+- "Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs", Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs, T. Sakurai, IEEE Transactions on Electron Devices ( Volume: 40, Issue: 1, January 1993)
 
 #### 5.1.1. Crosstalk
 
@@ -209,11 +216,13 @@ Or, Person having the above Background(s)
 
 ### 5.4. Routing on a Chip
 
+- "Virtual-channel flow control", W.J. Dally, IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
+
 - "The Turn Model for Adaptive Routing", C.J. Glass, L.M. Ni, Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
 
 - "A survey of wormhole routing techniques in direct networks", L.M. Ni, P.K. McKinley, Computer ( Volume: 26, Issue: 2, Feb. 1993)
 
-- "Virtual-channel flow control", W.J. Dally, IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
+
 
 
 ## 6. Distributed Computing Architecture
@@ -225,6 +234,8 @@ Or, Person having the above Background(s)
 - "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer (Volume: 30, Issue:  9, September 1997)
 
 ### 6.1.2. Memory Coherency and Protocol
+
+- "Shared memory systems on the Futurebus", P. Sweazey, Digest of Papers. COMPCON Spring 88 Thirty-Third IEEE Computer Society International Conference
 
 - "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer (Volume: 29, Issue: 12, Dec 1996)
 
