@@ -184,7 +184,7 @@ Or, Person having the above Background(s)
 
 ### 5.1. Signaling
 
-- "Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs", Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs, T. Sakurai, IEEE Transactions on Electron Devices ( Volume: 40, Issue: 1, January 1993)
+- "Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs", T. Sakurai, IEEE Transactions on Electron Devices ( Volume: 40, Issue: 1, January 1993)
 
 #### 5.1.1. Crosstalk
 
