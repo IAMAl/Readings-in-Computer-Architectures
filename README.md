@@ -22,8 +22,8 @@ Or, Person having the above Background(s)
 2. Computer Architecture
 3. Processor Architecture
 4. Storage Architecture
-5. Distributed Computing Architecture
-6. Interconnect Architecture
+5. Interconnect Architecture
+6. Distributed Computing Architecture
 7. Digital Logic Circuit and its Design
 8. Semiconductor Technology
 9. Constraint and Performance
@@ -351,18 +351,22 @@ Or, Person having the above Background(s)
 
 ## 9. Constraint and Performance
 
-### 9.1. Scaling
+### 9.1. Performance
 
-#### 9.1.1. MOS-FET: Moore's Law
+- Amdahl's Law: "Validity of the single processor approach to achieving large scale computing capabilities", Gene M. Amdahl, Proceedings of the spring joint computer conference, AFIPS '67, April 1967
+
+### 9.2. Scaling
+
+#### 9.2.1. MOS-FET: Moore's Law
 
 - "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
 
-#### 9.1.2. Power Consumption: Dennard's Scaling
+#### 9.2.2. Power Consumption: Dennard's Scaling
 
 - "Design of ion-implanted MOSFET's with very small physical dimensions", R.H. Dennard, F.H. Gaensslen, Hwa-Nien Yu, V.L. Rideout, E. Bassous, A.R. LeBlanc, IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
 
 
-### 9.2. Energy Consumption
+### 9.3. Energy Consumption
 
 - "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
 
