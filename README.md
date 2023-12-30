@@ -39,9 +39,10 @@ Or, Person having the above Background(s)
 
 #### 2.1.2. Mapping Program to Instruction Stream
 
+- "ILLIAC IV Software and Application Programming", D.J. Kuck, IEEE Transactions on Computers ( Volume: C-17, Issue: 8, August 1968)
+
 - "Programming Languages — The First 25 Years", Wegner, IEEE Transactions on Computers ( Volume: C-25, Issue: 12, December 1976)
 
-- "ILLIAC IV Software and Application Programming", D.J. Kuck, IEEE Transactions on Computers ( Volume: C-17, Issue: 8, August 1968)
 
 ### 2.2. Computing Mechanism
 
@@ -57,9 +58,9 @@ Or, Person having the above Background(s)
 
 - "IBM system/360 principles of operation", IBM Press, January 1964
 
-- "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing, Volume: 2, Issue: 4, Oct.-Dec. 1980
-
 - "The CRAY-1 computer system", Richard M. Russell, Hardware Reference Manual, Cray Research, Inc., 1977
+
+- "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing, Volume: 2, Issue: 4, Oct.-Dec. 1980
 
 
 ## 3. Processor Architecture
@@ -82,9 +83,9 @@ Or, Person having the above Background(s)
 
 #### 3.2.1. Hazards and Bypassing
 
-- "The design space of register renaming techniques", D. Sima, IEEE Micro, Volume: 20, Issue: 5, Sep/Oct 2000
-
 - "The performance impact of incomplete bypassing in processor pipelines", P.S. Ahuja, D.W. Clark, A. Rogers, Proceedings of the 28th Annual International Symposium on Microarchitecture (MICRO-28), 29 Nov.-1 Dec. 1995
+
+- "The design space of register renaming techniques", D. Sima, IEEE Micro, Volume: 20, Issue: 5, Sep/Oct 2000
 
 #### 3.2.2. Branch Instruction and Prediction
 
@@ -109,11 +110,11 @@ Or, Person having the above Background(s)
 
 #### 3.3.2. Superscalar Processors
 
+- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro, Volume: 13, Issue: 3, June 1993
+
 - "The microarchitecture of superscalar processors", J.E. Smith, G.S. Sohi, Proceedings of the IEEE, Volume: 83, Issue: 12, Dec. 1995
 
 - "The design space of register renaming techniques", D.Sima, IEEE Micro, Volume: 20, Issue: 5, Sept.-Oct. 2000
-
-- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro, Volume: 13, Issue: 3, June 1993
 
 
 ### 3.4. Vector Microprocessors
@@ -173,9 +174,9 @@ Or, Person having the above Background(s)
 
 ### 4.3. Cache Memories
 
-- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer, Volume: 6, Issue: 3, March 1973
-
 - "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal, Volume: 9, Issue: 2, 1970
+
+- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer, Volume: 6, Issue: 3, March 1973
 
 - "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers, Volume: 38, Issue: 12, Dec 1989
 
@@ -202,9 +203,10 @@ Or, Person having the above Background(s)
 
 - "Route packets, not wires: on-chip interconnection networks", W.J. Dally, B. Towles, DAC '01: Proceedings of the 38th annual Design Automation, 2001
 
+- "A survey of research and practices of Network-on-chip", Tobias Bjerregaard, Shankar Mahadevan, ACM Computing Surveys, June 2006
+
 - "Evaluating Bufferless Flow Control for On-chip Networks", George Michelogiannakis, Daniel Sanchez, William J. Dally, Christos Kozyrakis, 2010 Fourth ACM/IEEE International Symposium on Networks-on-Chip
 
-- "A survey of research and practices of Network-on-chip", Tobias Bjerregaard, Shankar Mahadevan, ACM Computing Surveys, June 2006
 
 ### 5.3. Livelock and Deadlock
 
@@ -343,11 +345,14 @@ Or, Person having the above Background(s)
 
 #### 8.4.3. Chiplet
 
-- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 28, Issue: 11, Nov. 2020
+- "Design and Analysis of an APU for Exascale Computing", Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael J. Schulte, Mike Ignatowski, Bradford M. Beckmann, William C. Brantley, Joseph L. Greathouse, Wei Huang, Arun Karunanithi, Onur Kayiran, Mitesh Meswani, Indrani Paul, Matthew Poremba, Steven Raasch, Steven K. Reinhardt, Greg Sadowski, Vilas Sridharan, IEEE International Symposium on High Performance Computer Architecture (HPCA), 2017
 
 - "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany, HotChips 31, 2019
 
-- "Design and Analysis of an APU for Exascale Computing", Thiruvengadam Vijayaraghavan, Yasuko Eckert, Gabriel H. Loh, Michael J. Schulte, Mike Ignatowski, Bradford M. Beckmann, William C. Brantley, Joseph L. Greathouse, Wei Huang, Arun Karunanithi, Onur Kayiran, Mitesh Meswani, Indrani Paul, Matthew Poremba, Steven Raasch, Steven K. Reinhardt, Greg Sadowski, Vilas Sridharan, IEEE International Symposium on High Performance Computer Architecture (HPCA), 2017
+- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 28, Issue: 11, Nov. 2020
+
+
+
 
 ## 9. Constraint and Performance
 
@@ -368,8 +373,9 @@ Or, Person having the above Background(s)
 
 ### 9.3. Energy Consumption
 
-- "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
-
 - "Energy dissipation in general purpose microprocessors", R. Gonzalez, M. Horowitz, IEEE Journal of Solid-State Circuits, Volume: 31, Issue: 9, Sep 1996
 
 - "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", Michael B. Taylor, DAC Design Automation Conference, 2012
+
+- "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
+  
