@@ -47,17 +47,17 @@ Or, Person having the above Background(s)
 
 #### 2.2.1. Primitives to Compute
 
-- "Architecture of the IBM System/360", G. M. Amdahl, G. A. Blaauw, F. P. Brooks, IBM Journal of Research and Development (Volume: 44, Issue: 1.2, Jan. 2000)
+- "Architecture of the IBM System/360", G. M. Amdahl, G. A. Blaauw, F. P. Brooks, IBM Journal of Research and Development, Volume: 44, Issue: 1.2, Jan. 2000
 
 #### 2.2.2. Instruction Handling
 
-- "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling", D. W. Anderson, F. J. Sparacio, R. M. Tomasulo, IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
+- "The IBM System/360 Model 91: Machine Philosophy and Instruction-Handling", D. W. Anderson, F. J. Sparacio, R. M. Tomasulo, IBM Journal of Research and Development, Volume: 11, Issue: 1, Jan. 1967
 
 #### 2.2.3. Computer System
 
 - "IBM system/360 principles of operation", IBM Press, January 1964
 
-- "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing (Volume: 2, Issue: 4, Oct.-Dec. 1980)
+- "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing, Volume: 2, Issue: 4, Oct.-Dec. 1980
 
 - "The CRAY-1 computer system", Richard M. Russell, Hardware Reference Manual, Cray Research, Inc., 1977
 
@@ -68,7 +68,7 @@ Or, Person having the above Background(s)
 ### 3.1. Instruction-Set
 #### 3.1.1. Instruction Set: Mapping State Diagram to Processing Flow
 
-- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers ( Volume: C-33, Issue: 12, Dec. 1984)
+- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers, Volume: C-33, Issue: 12, Dec. 1984
 
 #### 3.1.2. Mapping Processing Flow to FSM-based Processor
 
@@ -82,9 +82,9 @@ Or, Person having the above Background(s)
 
 #### 3.2.1. Hazards and Bypassing
 
-- "The design space of register renaming techniques", D. Sima, IEEE Micro (Volume: 20, Issue: 5, Sep/Oct 2000)
+- "The design space of register renaming techniques", D. Sima, IEEE Micro, Volume: 20, Issue: 5, Sep/Oct 2000
 
-- "The performance impact of incomplete bypassing in processor pipelines", P.S. Ahuja, D.W. Clark, A. Rogers, Proceedings of the 28th Annual International Symposium on Microarchitecture, 29 Nov.-1 Dec. 1995
+- "The performance impact of incomplete bypassing in processor pipelines", P.S. Ahuja, D.W. Clark, A. Rogers, Proceedings of the 28th Annual International Symposium on Microarchitecture (MICRO-28), 29 Nov.-1 Dec. 1995
 
 #### 3.2.2. Branch Instruction and Prediction
 
@@ -94,26 +94,26 @@ Or, Person having the above Background(s)
 
 #### 3.2.3. Pipeline Optimization
 
-- "The optimum pipeline depth for a microprocessor", A. Hartstein; T.R. Puzak, Proceedings 29th Annual International Symposium on Computer Architecture, May 2002
+- "The optimum pipeline depth for a microprocessor", A. Hartstein; T.R. Puzak, Proceedings 29th Annual International Symposium on Computer Architecture (ISCA-29), May 2002
 
 
 ### 3.3. Out-of-Order Enhancement
 
 #### 3.3.1. Out-of-Order Execution
 
-- "An Efficient Algorithm for Exploiting Multiple Arithmetic Units", R. M. Tomasulo, IBM Journal of Research and Development (Volume: 11, Issue: 1, Jan. 1967)
+- "An Efficient Algorithm for Exploiting Multiple Arithmetic Units", R. M. Tomasulo, IBM Journal of Research and Development, Volume: 11, Issue: 1, Jan. 1967
 
-- "Instruction Issue Logic in Pipelined Supercomputers", Shlomo Weiss, James E. Smith, IEEE Transactions on Computers (Volume: C-33, Issue: 11, Nov. 1984)
+- "Instruction Issue Logic in Pipelined Supercomputers", Shlomo Weiss, James E. Smith, IEEE Transactions on Computers, Volume: C-33, Issue: 11, Nov. 1984
 
-- "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", Wen-Mei W. Hwu, Yale N. Patt, IEEE Transactions on Computers (Volume: C-36, Issue: 12, Dec. 1987)
+- "Checkpoint Repair for High-Performance Out-of-Order Execution Machines", Wen-Mei W. Hwu, Yale N. Patt, IEEE Transactions on Computers, Volume: C-36, Issue: 12, Dec. 1987
 
 #### 3.3.2. Superscalar Processors
 
-- "The microarchitecture of superscalar processors", J.E. Smith, G.S. Sohi, Proceedings of the IEEE (Volume: 83, Issue: 12, Dec. 1995)
+- "The microarchitecture of superscalar processors", J.E. Smith, G.S. Sohi, Proceedings of the IEEE, Volume: 83, Issue: 12, Dec. 1995
 
-- "The design space of register renaming techniques", D.Sima, IEEE Micro ( Volume: 20, Issue: 5, Sept.-Oct. 2000)
+- "The design space of register renaming techniques", D.Sima, IEEE Micro, Volume: 20, Issue: 5, Sept.-Oct. 2000
 
-- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro ( Volume: 13, Issue: 3, June 1993)
+- "The Alpha AXP architecture and 21064 processor", E. McLellan, IEEE Micro, Volume: 13, Issue: 3, June 1993
 
 
 ### 3.4. Vector Microprocessors
@@ -122,7 +122,7 @@ Or, Person having the above Background(s)
 
 - "Vector Microprocessors", K. Asanovic, Ph.D. Thesis, 1998
 
-- "Vector architectures: past, present and future", Roger Espasa, Mateo Valero, James E. Smith, Proceedings of the 12th international conference on SupercomputingJuly 1998
+- "Vector architectures: past, present and future", Roger Espasa, Mateo Valero, James E. Smith, Proceedings of the 12th international conference on Supercomputing, 1998
 
 ### 3.5. Parallelism: Limits of Processors
 
@@ -140,21 +140,21 @@ Or, Person having the above Background(s)
 
 - "The case for a single-chip multiprocessor", Kunle Olukotun, Basem A. Nayfeh, Lance Hammond, Ken Wilson, Kunyung Chang, ACM SIGPLAN Notices, September 1996
 
-- "Simultaneous multithreading: a platform for next-generation processors", S.J. Eggers, J.S. Emer, H.M. Levy, J.L. Lo, R.L. Stamm, D.M. Tullsen, IEEE Micro ( Volume: 17, Issue: 5, Sept.-Oct. 1997)
+- "Simultaneous multithreading: a platform for next-generation processors", S.J. Eggers, J.S. Emer, H.M. Levy, J.L. Lo, R.L. Stamm, D.M. Tullsen, IEEE Micro, Volume: 17, Issue: 5, Sept.-Oct. 1997
 
 - "Niagara: a 32-way multithreaded Sparc processor," P. Kongetira, K. Aingaran and K. Olukotun, IEEE Micro, vol. 25, no. 2, pp. 21-29, March-April 2005
 
 
 #### 3.5.4. Data-Level Parallelism
 
-- "Subword parallelism with MAX-2", Ruby B. Lee, IEEE Micro, (Volume: 16, Issue: 4, Aug 1996)
+- "Subword parallelism with MAX-2", Ruby B. Lee, IEEE Micro, Volume: 16, Issue: 4, Aug 1996
   
-- "Implementing streaming SIMD extensions on the Pentium III processor", S.K. Raman, V. Pentkovski, J. Keshava, IEEE Micro (Volume: 20, Issue: 4, Jul/Aug 2000)
+- "Implementing streaming SIMD extensions on the Pentium III processor", S.K. Raman, V. Pentkovski, J. Keshava, IEEE Micro, Volume: 20, Issue: 4, Jul/Aug 2000
 
 
 ### 3.6. Exception and Interruption
 
-- "Implementing precise interrupts in pipelined processors", J.E. Smith, A.R. Pleszkun, IEEE Transactions on Computers, (Volume: 37, Issue: 5, May 1988)
+- "Implementing precise interrupts in pipelined processors", J.E. Smith, A.R. Pleszkun, IEEE Transactions on Computers, Volume: 37, Issue: 5, May 1988
 
 
 ## 4. Storage Architecture
@@ -168,27 +168,27 @@ Or, Person having the above Background(s)
 
 ### 4.2. Non-Volatile Memories
 
-- "Emerging Memory Technologies: Recent Trends and Prospects", Shimeng Yu,  Pai-Yu Chen, IEEE Solid-State Circuits Magazine (Volume: 8, Issue: 2, Spring 2016)
+- "Emerging Memory Technologies: Recent Trends and Prospects", Shimeng Yu,  Pai-Yu Chen, IEEE Solid-State Circuits Magazine, Volume: 8, Issue: 2, Spring 2016
 
 
 ### 4.3. Cache Memories
 
-- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer ( Volume: 6, Issue: 3, March 1973)
+- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer, Volume: 6, Issue: 3, March 1973
 
-- "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal (Volume: 9, Issue: 2, 1970)
+- "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal, Volume: 9, Issue: 2, 1970
 
-- "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers ( Volume: 38, Issue: 12, Dec 1989)
+- "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers, Volume: 38, Issue: 12, Dec 1989
 
 
 ## 5. Interconnect Architecture
 
 ### 5.1. Signaling
 
-- "Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs", T. Sakurai, IEEE Transactions on Electron Devices ( Volume: 40, Issue: 1, January 1993)
+- "Closed-form expressions for interconnection delay, coupling, and crosstalk in VLSIs", T. Sakurai, IEEE Transactions on Electron Devices, Volume: 40, Issue: 1, January 1993
 
 #### 5.1.1. Crosstalk
 
-- "Reflection and crosstalk in logic circuit interconnections", John A. DeFalco, IEEE Spectrum (Volume: 7, Issue: 7, July 1970)
+- "Reflection and crosstalk in logic circuit interconnections", John A. DeFalco, IEEE Spectrum, Volume: 7, Issue: 7, July 1970
 
 #### 5.1.2. Wire Delay
 
@@ -196,7 +196,7 @@ Or, Person having the above Background(s)
 
 - "International Technology Roadmap for Semiconductors", Semiconductor Industry Association, 2001
 
-- "The future of wires", R. Ho, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE (Volume: 89, Issue: 4, April 2001)
+- "The future of wires", R. Ho, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE, Volume: 89, Issue: 4, April 2001
 
 ### 5.2. Networks-on-Chip
 
@@ -210,17 +210,17 @@ Or, Person having the above Background(s)
 
 - "Some Deadlock Properties of Computer Systems", Richard C. Holt, ACM Computing Surveys, September 1972
 
-- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", Dally, Seitz, IEEE Transactions on Computers ( Volume: C-36, Issue: 5, May 1987)
+- "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", Dally, Seitz, IEEE Transactions on Computers, Volume: C-36, Issue: 5, May 1987
   
-- "High Performance Communications In Processor Networks," C. R. Jesshope, P. R. Miller and J. T. Yantchev, The 16th Annual International Symposium on Computer Architecture, 1989, pp. 150-157
+- "High Performance Communications In Processor Networks," C. R. Jesshope, P. R. Miller and J. T. Yantchev, The 16th Annual International Symposium on Computer Architecture (ISCA-16), 1989, pp. 150-157
 
 ### 5.4. Routing on a Chip
 
-- "Virtual-channel flow control", W.J. Dally, IEEE Transactions on Parallel and Distributed Systems, (Volume: 3, Issue: 2, Mar 1992)
+- "Virtual-channel flow control", W.J. Dally, IEEE Transactions on Parallel and Distributed Systems, Volume: 3, Issue: 2, Mar 1992
 
 - "The Turn Model for Adaptive Routing", C.J. Glass, L.M. Ni, Proceedings the 19th Annual International Symposium on Computer Architecture, 1992
 
-- "A survey of wormhole routing techniques in direct networks", L.M. Ni, P.K. McKinley, Computer ( Volume: 26, Issue: 2, Feb. 1993)
+- "A survey of wormhole routing techniques in direct networks", L.M. Ni, P.K. McKinley, Computer, Volume: 26, Issue: 2, Feb. 1993
 
 
 
@@ -229,15 +229,15 @@ Or, Person having the above Background(s)
 
 ### 6.1.1. Many-core Microprocessors
 
-- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", Lamport, IEEE Transactions on Computers (Volume: C-28, Issue: 9, Sept. 1979)
+- "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", Lamport, IEEE Transactions on Computers, Volume: C-28, Issue: 9, Sept. 1979
 
-- "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer (Volume: 30, Issue:  9, September 1997)
+- "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer, Volume: 30, Issue:  9, September 1997
 
 ### 6.1.2. Memory Coherency and Protocol
 
 - "Shared memory systems on the Futurebus", P. Sweazey, Digest of Papers. COMPCON Spring 88 Thirty-Third IEEE Computer Society International Conference
 
-- "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer (Volume: 29, Issue: 12, Dec 1996)
+- "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer, Volume: 29, Issue: 12, Dec 1996
 
 ## 7. Digital Logic Circuit and its Design
 
@@ -245,13 +245,13 @@ Or, Person having the above Background(s)
 
 #### 7.1.1.Boolean Algebra
 
-- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Robert Serrell, Proceedings of the IRE (Volume: 41, Issue: 10, Oct. 1953)
+- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Robert Serrell, Proceedings of the IRE, Volume: 41, Issue: 10, Oct. 1953
 
 #### 7.1.2. Logic Gate Primitives
 
 #### 7.1.3. Combinatorial Logic Circuit
 
-- "A Truth Table Method for the Synthesis of Combinational Logic", Sheldon B. Akers, IRE Transactions on Electronic Computers (Volume: EC-10, Issue: 4, Dec. 1961)
+- "A Truth Table Method for the Synthesis of Combinational Logic", Sheldon B. Akers, IRE Transactions on Electronic Computers, Volume: EC-10, Issue: 4, Dec. 1961
 
 ### 7.2. Finite State Machine
 
@@ -261,7 +261,7 @@ Or, Person having the above Background(s)
 
 #### 7.2.2. Mapping State Diagram to FSM
 
-- "Introduction to the theory of finite-state machines", S. Seshu, McGraw Hill; First Edition, First Printing (January 1, 1962)
+- "Introduction to the theory of finite-state machines", S. Seshu, McGraw Hill; First Edition, January 1, 1962
 
 #### 7.2.3. Optimization
 
@@ -273,7 +273,7 @@ Or, Person having the above Background(s)
 
 #### 7.3.3. Pipelining
 
-- "Pipelining of Arithmetic Functions", Thomas G. Hallin and Michael J. Flynn, IEEE Transactions on Computers (Volume: C-21, Issue: 8, Aug. 1972)
+- "Pipelining of Arithmetic Functions", Thomas G. Hallin and Michael J. Flynn, IEEE Transactions on Computers, Volume: C-21, Issue: 8, Aug. 1972
 
 ### 7.4. Modular and Intellectual Properties
 
@@ -288,29 +288,29 @@ Or, Person having the above Background(s)
 
 #### 8.1.1. Band Theory and Its Band-Gap
 
-- "Characteristics of Electrons in Solids", IRE Transactions on Education (Volume: 3, Issue: 4, Dec. 1960)
+- "Characteristics of Electrons in Solids", IRE Transactions on Education, Volume: 3, Issue: 4, Dec. 1960
 
 - "Bandgap and transport properties of Si/sub 1-x/Ge/sub x/ by analysis of nearly ideal Si/Si/sub 1-x/Ge/sub x//Si heterojunction bipolar transistors," C. A. King, J. L. Hoyt and J. F. Gibbons, IEEE Transactions on Electron Devices, vol. 36, no. 10, pp. 2093-2104, Oct. 1989
 
 #### 8.1.2. Doping
 
-- "The influence of heavy doping on the emitter efficiency of a bipolar transistor", H.J.J. De Man, IEEE Transactions on Electron Devices ( Volume: 18, Issue: 10, October 1971)
+- "The influence of heavy doping on the emitter efficiency of a bipolar transistor", H.J.J. De Man, IEEE Transactions on Electron Devices, Volume: 18, Issue: 10, October 1971
 
 ### 8.2. Transistor
 
 - "The transistor — A new amplifier", Electrical Engineering, vol. 67, no. 8, pp. 740-740, Aug. 1948
 
-- "Some circuit aspects of the transistor", R. M. Ryder, R. J. Kircher, The Bell System Technical Journal (Volume: 28, Issue: 3, July 1949)
+- "Some circuit aspects of the transistor", R. M. Ryder, R. J. Kircher, The Bell System Technical Journal, Volume: 28, Issue: 3, July 1949
 
 #### 8.2.1. Band-Gap and Junction
 
-- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Chih-tang Sah, Robert N. Noyce, William Shockley, Proceedings of the IRE (Volume: 45, Issue: 9, Sept. 1957)
+- "Carrier Generation and Recombination in P-N Junctions and P-N Junction Characteristics", Chih-tang Sah, Robert N. Noyce, William Shockley, Proceedings of the IRE, Volume: 45, Issue: 9, Sept. 1957
 
 #### 8.2.2. Historical Review of Transistor
 
-- "The invention of the transistor", Proceedings of the IEEE (Volume: 86, Issue: 1, Jan. 1998)
+- "The invention of the transistor", Proceedings of the IEEE, Volume: 86, Issue: 1, Jan. 1998
 
-- "Evolution of the MOS transistor-from conception to VLSI", Sah Chih-Tang, Proceedings of the IEEE (Volume: 76, Issue: 10, Oct. 1988)
+- "Evolution of the MOS transistor-from conception to VLSI", Sah Chih-Tang, Proceedings of the IEEE, Volume: 76, Issue: 10, Oct. 1988
 
 
 ### 8.3. Fabrication
@@ -333,9 +333,9 @@ Or, Person having the above Background(s)
 
 #### 8.4.1. Interposer
 
-- "Interposer Technologies for High-Performance Applications", Ahmad Usman, Etizaz Shah, Nithanth B. Satishprasad, Jialou Chen, Steven A. Bohlemann, Sajjad H. Shami, Ali A. Eftekhar, Ali Adibi, IEEE Transactions on Components, Packaging and Manufacturing Technology (Volume: 7, Issue: 6, June 2017)
+- "Interposer Technologies for High-Performance Applications", Ahmad Usman, Etizaz Shah, Nithanth B. Satishprasad, Jialou Chen, Steven A. Bohlemann, Sajjad H. Shami, Ali A. Eftekhar, Ali Adibi, IEEE Transactions on Components, Packaging and Manufacturing Technology, Volume: 7, Issue: 6, June 2017
 
-- "Architecture, Chip, and Package Co-Design Flow for 2.5D IC Design Enabling Heterogeneous IP Reuse", Kim, Jinwoo and Murali, Gauthaman and Park, Heechun and Qin, Eric and Kwon, Hyoukjun and Chaitanya, Venkata and Chekuri, Krishna and Dasari, Nihar and Singh, Arvind and Lee, Minah and Torun, Hakki Mert and Roy, Kallol and Swaminathan, Madhavan and Mukhopadhyay, Saibal and Krishna, Tushar and Lim, Sung Kyu, Proceedings of the 56th Annual Design Automation Conference, 2019
+- "Architecture, Chip, and Package Co-Design Flow for 2.5D IC Design Enabling Heterogeneous IP Reuse", Kim, Jinwoo and Murali, Gauthaman and Park, Heechun and Qin, Eric and Kwon, Hyoukjun and Chaitanya, Venkata and Chekuri, Krishna and Dasari, Nihar and Singh, Arvind and Lee, Minah and Torun, Hakki Mert and Roy, Kallol and Swaminathan, Madhavan and Mukhopadhyay, Saibal and Krishna, Tushar and Lim, Sung Kyu, Proceedings of the 56th Annual Design Automation Conference (DAC-56), 2019
 
 
 #### 8.4.2. Die-Stacking
@@ -343,7 +343,7 @@ Or, Person having the above Background(s)
 
 #### 8.4.3. Chiplet
 
-- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems (Volume: 28, Issue: 11, Nov. 2020)
+- "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 28, Issue: 11, Nov. 2020
 
 - "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany, HotChips 31, 2019
 
@@ -359,18 +359,17 @@ Or, Person having the above Background(s)
 
 #### 9.2.1. MOS-FET: Moore's Law
 
-- "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
+- "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter, Volume: 11, Issue: 3, Sept. 2006
 
 #### 9.2.2. Power Consumption: Dennard's Scaling
 
-- "Design of ion-implanted MOSFET's with very small physical dimensions", R.H. Dennard, F.H. Gaensslen, Hwa-Nien Yu, V.L. Rideout, E. Bassous, A.R. LeBlanc, IEEE Journal of Solid-State Circuits ( Volume: 9, Issue: 5, Oct. 1974)
+- "Design of ion-implanted MOSFET's with very small physical dimensions", R.H. Dennard, F.H. Gaensslen, Hwa-Nien Yu, V.L. Rideout, E. Bassous, A.R. LeBlanc, IEEE Journal of Solid-State Circuits, Volume: 9, Issue: 5, Oct. 1974
 
 
 ### 9.3. Energy Consumption
 
 - "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
 
-- "Energy dissipation in general purpose microprocessors", R. Gonzalez, M. Horowitz, IEEE Journal of Solid-State Circuits (Volume: 31, Issue: 9, Sep 1996)
+- "Energy dissipation in general purpose microprocessors", R. Gonzalez, M. Horowitz, IEEE Journal of Solid-State Circuits, Volume: 31, Issue: 9, Sep 1996
 
 - "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", Michael B. Taylor, DAC Design Automation Conference, 2012
-
