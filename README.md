@@ -68,7 +68,7 @@ Or, Person having the above Background(s)
 ### 3.1. Instruction-Set
 #### 3.1.1. Instruction Set: Mapping State Diagram to Processing Flow
 
-- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers ( Volume: C-33, Issue: 12, Dec. 1984)
+- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers (Volume: C-33, Issue: 12, Dec. 1984)
 
 #### 3.1.2. Mapping Processing Flow to FSM-based Processor
 
@@ -77,6 +77,8 @@ Or, Person having the above Background(s)
 - "MIPS: A microprocessor architecture", John Hennessy, Norman Jouppi, Steven Przybylski, Christopher Rowen, Thomas Gross, Forest Baskett, John Gill, ACM SIGMICRO Newsletter, October 1982
 
 - "Reduced instruction set computer architecture", W. Stallings, Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
+
+- "Measuring the Parallelism Available for Very Long Instruction Word Architectures", Nicolau Fisher, IEEE Transactions on Computers (Volume: C-33, Issue: 11, November 1984)
 
 ### 3.2. Pipelined Processor
 
@@ -359,7 +361,7 @@ Or, Person having the above Background(s)
 
 #### 9.2.1. MOS-FET: Moore's Law
 
-- "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter (Volume: 11, Issue: 3, Sept. 2006) 
+- "Progress in digital integrated electronics", Gordon E. Moore, International Electron Devices Meeting, IEEE, 1975, pp. 11-13.
 
 #### 9.2.2. Power Consumption: Dennard's Scaling
 
