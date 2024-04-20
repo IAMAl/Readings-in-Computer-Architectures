@@ -69,11 +69,7 @@ Or, Person having the above Background(s)
 ### 3.1. Instruction-Set
 #### 3.1.1. Instruction Set: Mapping State Diagram to Processing Flow
 
-<<<<<<< HEAD
 - "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers (Volume: C-33, Issue: 12, Dec. 1984)
-=======
-- "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers, Volume: C-33, Issue: 12, Dec. 1984
->>>>>>> 232c82fb99660bf8cb318b6e1f36682560063c2a
 
 #### 3.1.2. Mapping Processing Flow to FSM-based Processor
 
@@ -370,11 +366,7 @@ Or, Person having the above Background(s)
 
 #### 9.2.1. MOS-FET: Moore's Law
 
-<<<<<<< HEAD
 - "Progress in digital integrated electronics", Gordon E. Moore, International Electron Devices Meeting, IEEE, 1975, pp. 11-13.
-=======
-- "Cramming more components onto integrated circuits, Reprinted from Electronics", Gordon E. Moore, IEEE Solid-State Circuits Society Newsletter, Volume: 11, Issue: 3, Sept. 2006
->>>>>>> 232c82fb99660bf8cb318b6e1f36682560063c2a
 
 #### 9.2.2. Power Consumption: Dennard's Scaling
 
