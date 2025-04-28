@@ -1,4 +1,4 @@
-# RCA: Readings in Computer Architectures
+# Readings in Computer Architectures
 
 **Licence** : Creative Commons v1.0 Universal
 
@@ -31,9 +31,12 @@ Or, Person having the above Background(s)
 ## 1. Programming Model
 
 
+
+
 ## 2. Computer Architecture
 
-### 2.1. Programming and Instruction Set
+
+### 2.1. Programming and Instruction-Set
 
 #### 2.1.1. Mapping State Diagram to Program
 
@@ -63,23 +66,27 @@ Or, Person having the above Background(s)
 - "The CDC 6600 Project", James E. Thornton, Annals of the History of Computing, Volume: 2, Issue: 4, Oct.-Dec. 1980
 
 
+
+
 ## 3. Processor Architecture
 
 
 ### 3.1. Instruction-Set
-#### 3.1.1. Instruction Set: Mapping State Diagram to Processing Flow
+
+#### 3.1.1. Instruction-Set: Mapping State Diagram to Processing Flow
 
 - "VLSI Processor Architecture", J.L. Hennessy, IEEE Transactions on Computers (Volume: C-33, Issue: 12, Dec. 1984)
 
 #### 3.1.2. Mapping Processing Flow to FSM-based Processor
 
-#### 3.1.3. Instruction Set Architecture
+#### 3.1.3. Instruction-Set Architecture
 
 - "MIPS: A microprocessor architecture", John Hennessy, Norman Jouppi, Steven Przybylski, Christopher Rowen, Thomas Gross, Forest Baskett, John Gill, ACM SIGMICRO Newsletter, October 1982
 
 - "Reduced instruction set computer architecture", W. Stallings, Proceedings of the IEEE, Volume: 76, Issue: 1, Jan. 1988
 
 - "Measuring the Parallelism Available for Very Long Instruction Word Architectures", Nicolau Fisher, IEEE Transactions on Computers (Volume: C-33, Issue: 11, November 1984)
+
 
 ### 3.2. Pipelined Processor
 
@@ -127,6 +134,7 @@ Or, Person having the above Background(s)
 
 - "Vector architectures: past, present and future", Roger Espasa, Mateo Valero, James E. Smith, Proceedings of the 12th international conference on Supercomputing, 1998
 
+
 ### 3.5. Parallelism: Limits of Processors
 
 - "Exploiting Instruction- and Data-Level Parallelism", Roger Espasa, Mateo Valero, IEEE Micro, September/October 1997, pp.20-27, vol. 17
@@ -135,7 +143,7 @@ Or, Person having the above Background(s)
 
 - "Limits of instruction-level parallelism", David W. Wall, ACM SIGARCH Computer Architecture News, April 1991
 
-- "Checkpoint processing and recovery: towards scalable large instruction window processors", H. Akkary, R. Rajwar, S.T. Srinivasang, Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003. MICRO-36
+- "Checkpoint processing and recovery: towards scalable large instruction window processors", H. Akkary, R. Rajwar, S.T. Srinivasang, Proceedings. 36th Annual IEEE/ACM International Symposium on Microarchitecture, 2003
 
 #### 3.5.2. Basic Block-Level Parallelism
 
@@ -147,11 +155,10 @@ Or, Person having the above Background(s)
 
 - "Niagara: a 32-way multithreaded Sparc processor," P. Kongetira, K. Aingaran and K. Olukotun, IEEE Micro, vol. 25, no. 2, pp. 21-29, March-April 2005
 
-
 #### 3.5.4. Data-Level Parallelism
 
 - "Subword parallelism with MAX-2", Ruby B. Lee, IEEE Micro, Volume: 16, Issue: 4, Aug 1996
-  
+
 - "Implementing streaming SIMD extensions on the Pentium III processor", S.K. Raman, V. Pentkovski, J. Keshava, IEEE Micro, Volume: 20, Issue: 4, Jul/Aug 2000
 
 
@@ -160,7 +167,10 @@ Or, Person having the above Background(s)
 - "Implementing precise interrupts in pipelined processors", J.E. Smith, A.R. Pleszkun, IEEE Transactions on Computers, Volume: 37, Issue: 5, May 1988
 
 
+
+
 ## 4. Storage Architecture
+
 
 ### 4.1. Volatile Memories
 
@@ -174,16 +184,32 @@ Or, Person having the above Background(s)
 - "Emerging Memory Technologies: Recent Trends and Prospects", Shimeng Yu,  Pai-Yu Chen, IEEE Solid-State Circuits Magazine, Volume: 8, Issue: 2, Spring 2016
 
 
-### 4.3. Cache Memories
+### 4.3. Cache/Paged Memories
+
+- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer, Volume: 6, Issue: 3, March 1973
+
+- "Cache memories for PDP-11 family computers", Strecker, William D., Proceedings of the 3rd Annual Symposium on Computer Architecture, 1976
+
+- "Cache write policies and performance", Jouppi, Norman P., roceedings of the 20th Annual International Symposium on Computer Architecture, 1993
+
+#### 4.2.1. Replacement
+
+- "Thrashing: its causes and prevention", Denning, Peter J., roceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I, 1968
 
 - "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal, Volume: 9, Issue: 2, 1970
 
-- "Cache-based Computer Systems", K. R. Kaplan, R. O. Winder, Computer, Volume: 6, Issue: 3, March 1973
+#### 4.2.2. Associativity
 
 - "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers, Volume: 38, Issue: 12, Dec 1989
 
 
+#### 4.2.3. Working-set
+
+- "Working sets, cache sizes, and node granularity issues for large-scale multiprocessors", Rothberg, Edward and Singh, Jaswinder Pal and Gupta, Anoop, Proceedings of the 20th Annual International Symposium on Computer Architecture, 1993
+
+
 ## 5. Interconnect Architecture
+
 
 ### 5.1. Signaling
 
@@ -201,6 +227,7 @@ Or, Person having the above Background(s)
 
 - "The future of wires", R. Ho, K.W. Mai, M.A. Horowitz, Proceedings of the IEEE, Volume: 89, Issue: 4, April 2001
 
+
 ### 5.2. Networks-on-Chip
 
 - "Route packets, not wires: on-chip interconnection networks", W.J. Dally, B. Towles, DAC '01: Proceedings of the 38th annual Design Automation, 2001
@@ -215,8 +242,9 @@ Or, Person having the above Background(s)
 - "Some Deadlock Properties of Computer Systems", Richard C. Holt, ACM Computing Surveys, September 1972
 
 - "Deadlock-Free Message Routing in Multiprocessor Interconnection Networks", Dally, Seitz, IEEE Transactions on Computers, Volume: C-36, Issue: 5, May 1987
-  
+
 - "High Performance Communications In Processor Networks," C. R. Jesshope, P. R. Miller and J. T. Yantchev, The 16th Annual International Symposium on Computer Architecture (ISCA-16), 1989, pp. 150-157
+
 
 ### 5.4. Routing on a Chip
 
@@ -231,43 +259,51 @@ Or, Person having the above Background(s)
 
 ## 6. Distributed Computing Architecture
 
-### 6.1.1. Many-core Microprocessors
+
+### 6.1. Many-core Microprocessors
 
 - "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", Lamport, IEEE Transactions on Computers, Volume: C-28, Issue: 9, Sept. 1979
 
 - "Baring it all to Software: The Raw Machines", E. Waingold, M. Taylor, D. Srikrishna, V. Sarkar, W. Lee, V. Lee, J. Kim, M. Frank, P. Finch, R. Barua, J. Babb, S. Amarasinghe, A. Agarwal, Computer, Volume: 30, Issue:  9, September 1997
 
-### 6.1.2. Memory Coherency and Protocol
+
+### 6.2. Memory Coherency and Protocol
 
 - "Shared memory systems on the Futurebus", P. Sweazey, Digest of Papers. COMPCON Spring 88 Thirty-Third IEEE Computer Society International Conference
 
 - "Shared memory consistency models: a tutorial", S.V. Adve, K. Gharachorloo, Computer, Volume: 29, Issue: 12, Dec 1996
 
+
+
+
 ## 7. Digital Logic Circuit and its Design
 
-### 7.1. Boolean Algebra and Logic Circuit
 
-#### 7.1.1.Boolean Algebra
+### 7.1. Finite State Machine
 
-- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Robert Serrell, Proceedings of the IRE, Volume: 41, Issue: 10, Oct. 1953
-
-#### 7.1.2. Logic Gate Primitives
-
-#### 7.1.3. Combinatorial Logic Circuit
-
-- "A Truth Table Method for the Synthesis of Combinational Logic", Sheldon B. Akers, IRE Transactions on Electronic Computers, Volume: EC-10, Issue: 4, Dec. 1961
-
-### 7.2. Finite State Machine
-
-#### 7.2.1. State Diagram
+#### 7.1.1. State Diagram
 
 - "Regular Algebra and Finite Machines", John Horton Conway, Dover Books on Mathematics
 
-#### 7.2.2. Mapping State Diagram to FSM
+#### 7.1.2. Mapping State Diagram to FSM
 
 - "Introduction to the theory of finite-state machines", S. Seshu, McGraw Hill; First Edition, January 1, 1962
 
-#### 7.2.3. Optimization
+#### 7.1.3. Optimization
+
+
+### 7.2. Boolean Algebra and Logic Circuit
+
+#### 7.2.1.Boolean Algebra
+
+- "Elements of Boolean Algebra for the Study of Information-Handling Systems", Robert Serrell, Proceedings of the IRE, Volume: 41, Issue: 10, Oct. 1953
+
+#### 7.2.2. Logic Gate Primitives
+
+#### 7.2.3. Combinatorial Logic Circuit
+
+- "A Truth Table Method for the Synthesis of Combinational Logic", Sheldon B. Akers, IRE Transactions on Electronic Computers, Volume: EC-10, Issue: 4, Dec. 1961
+
 
 ### 7.3. Synchronous Logic and Pipelining
 
@@ -279,6 +315,7 @@ Or, Person having the above Background(s)
 
 - "Pipelining of Arithmetic Functions", Thomas G. Hallin and Michael J. Flynn, IEEE Transactions on Computers, Volume: C-21, Issue: 8, Aug. 1972
 
+
 ### 7.4. Modular and Intellectual Properties
 
 #### 7.4.1. Module: Hierarchical Description
@@ -286,7 +323,10 @@ Or, Person having the above Background(s)
 #### 7.4.2. Reuse of Module
 
 
+
+
 ## 8. Semiconductor Technology
+
 
 ### 8.1. Band-Gap Model
 
@@ -299,6 +339,7 @@ Or, Person having the above Background(s)
 #### 8.1.2. Doping
 
 - "The influence of heavy doping on the emitter efficiency of a bipolar transistor", H.J.J. De Man, IEEE Transactions on Electron Devices, Volume: 18, Issue: 10, October 1971
+
 
 ### 8.2. Transistor
 
@@ -333,6 +374,7 @@ Or, Person having the above Background(s)
 
 - "Packaging technologies for supercomputer system", H. Hamaguchi, T. Watari and A. Dohya, IEEE International Symposium on Circuits and Systems (ISCAS), 1991, pp. 2292-2295 vol.4
 
+
 ### 8.4. Interposer, Die-Stacking, and Chiplet
 
 #### 8.4.1. Interposer
@@ -341,9 +383,7 @@ Or, Person having the above Background(s)
 
 - "Architecture, Chip, and Package Co-Design Flow for 2.5D IC Design Enabling Heterogeneous IP Reuse", Kim, Jinwoo and Murali, Gauthaman and Park, Heechun and Qin, Eric and Kwon, Hyoukjun and Chaitanya, Venkata and Chekuri, Krishna and Dasari, Nihar and Singh, Arvind and Lee, Minah and Torun, Hakki Mert and Roy, Kallol and Swaminathan, Madhavan and Mukhopadhyay, Saibal and Krishna, Tushar and Lim, Sung Kyu, Proceedings of the 56th Annual Design Automation Conference (DAC-56), 2019
 
-
 #### 8.4.2. Die-Stacking
-
 
 #### 8.4.3. Chiplet
 
@@ -358,9 +398,11 @@ Or, Person having the above Background(s)
 
 ## 9. Constraint and Performance
 
+
 ### 9.1. Performance
 
 - Amdahl's Law: "Validity of the single processor approach to achieving large scale computing capabilities", Gene M. Amdahl, Proceedings of the spring joint computer conference, AFIPS '67, April 1967
+
 
 ### 9.2. Scaling
 
@@ -380,4 +422,3 @@ Or, Person having the above Background(s)
 - "Is dark silicon useful? Harnessing the four horsemen of the coming dark silicon apocalypse", Michael B. Taylor, DAC Design Automation Conference, 2012
 
 - "Computing's energy problem (and what we can do about it)", Mark Horowitz, IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014
-  
