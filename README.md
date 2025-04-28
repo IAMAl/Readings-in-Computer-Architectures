@@ -190,11 +190,11 @@ Or, Person having the above Background(s)
 
 - "Cache memories for PDP-11 family computers", Strecker, William D., Proceedings of the 3rd Annual Symposium on Computer Architecture, 1976
 
-- "Cache write policies and performance", Jouppi, Norman P., roceedings of the 20th Annual International Symposium on Computer Architecture, 1993
+- "Cache write policies and performance", Jouppi, Norman P., Proceedings of the 20th Annual International Symposium on Computer Architecture, 1993
 
 #### 4.3.1. Replacement
 
-- "Thrashing: its causes and prevention", Denning, Peter J., roceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I, 1968
+- "Thrashing: its causes and prevention", Denning, Peter J., Proceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I, 1968
 
 - "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal, Volume: 9, Issue: 2, 1970
 
