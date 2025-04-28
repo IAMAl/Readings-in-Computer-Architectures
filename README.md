@@ -192,18 +192,18 @@ Or, Person having the above Background(s)
 
 - "Cache write policies and performance", Jouppi, Norman P., roceedings of the 20th Annual International Symposium on Computer Architecture, 1993
 
-#### 4.2.1. Replacement
+#### 4.3.1. Replacement
 
 - "Thrashing: its causes and prevention", Denning, Peter J., roceedings of the December 9-11, 1968, Fall Joint Computer Conference, Part I, 1968
 
 - "Evaluation techniques for storage hierarchies", R.L. Mattson, J. Gecsei, D. R. Slutz, I. L. Traiger, IBM Systems Journal, Volume: 9, Issue: 2, 1970
 
-#### 4.2.2. Associativity
+#### 4.3.2. Associativity
 
 - "Evaluating associativity in CPU caches", M.D. Hill, A. J. Smith, IEEE Transactions on Computers, Volume: 38, Issue: 12, Dec 1989
 
 
-#### 4.2.3. Working-set
+#### 4.3.3. Working-set
 
 - "Working sets, cache sizes, and node granularity issues for large-scale multiprocessors", Rothberg, Edward and Singh, Jaswinder Pal and Gupta, Anoop, Proceedings of the 20th Annual International Symposium on Computer Architecture, 1993
 
