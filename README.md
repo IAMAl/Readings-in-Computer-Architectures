@@ -361,9 +361,6 @@ Or, Person having the above Background(s)
 - "Pipelining of Arithmetic Functions", Thomas G. Hallin and Michael J. Flynn, IEEE Transactions on Computers, Volume: C-21, Issue: 8, Aug. 1972
 
 
-#### 7.3.2. Registers
-
-
 #### 7.3.2. Clocking, Latches and Flip-Flop
 
 
@@ -396,7 +393,7 @@ Or, Person having the above Background(s)
 - "Architecture, Chip, and Package Codesign Flow for Interposer-Based 2.5-D Chiplet Integration Enabling Heterogeneous IP Reuse", Jinwoo Kim, Gauthaman Murali, Heechun Park, Eric Qin, Hyoukjun Kwon, Venkata Chaitanya Krishna Chekuri, Nael Mizanur Rahman, Nihar Dasari, Arvind Singh, Minah Lee, Hakki Mert Torun, Kallol Roy, Madhavan Swaminathan, Saibal Mukhopadhyay, Tushar Krishna, Sung Kyu Lim, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 28, Issue: 11, Nov. 2020
 
 
-#### 8.1.2. Interposer
+#### 8.1.3. Interposer
 
 - "Interposer Technologies for High-Performance Applications", Ahmad Usman, Etizaz Shah, Nithanth B. Satishprasad, Jialou Chen, Steven A. Bohlemann, Sajjad H. Shami, Ali A. Eftekhar, Ali Adibi, IEEE Transactions on Components, Packaging and Manufacturing Technology, Volume: 7, Issue: 6, June 2017
 
