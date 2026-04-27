@@ -37,11 +37,29 @@ Or, Person having the above Background(s)
 
 ### 1.1. Dynamic Data Type Languages
 
+- "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I", John McCarthy, Communications of the ACM, Volume: 3, Issue: 4, April 1960
+
+- "Smalltalk-80: The Language and its Implementation", A. Goldberg, D. Robson, Addison-Wesley, 1983
+
+- "Scripting: Higher-Level Programming for the 21st Century", John K. Ousterhout, Computer, Volume: 31, Issue: 3, March 1998
+
 
 ### 1.2. Static Data Type Languages
 
+- "The C Programming Language", B. W. Kernighan, D. M. Ritchie, Prentice Hall, 1978
+
+- "The Programming Language Pascal", N. Wirth, Acta Informatica, Volume: 1, 1971
+
+- "The C++ Programming Language", B. Stroustrup, Addison-Wesley, 1986
+
 
 ### 1.3. Compilers
+
+- "Compilers: Principles, Techniques, and Tools", A. V. Aho, M. S. Lam, R. Sethi, J. D. Ullman, Addison-Wesley
+
+- "Efficiently Computing Static Single Assignment Form and the Control Dependence Graph", R. Cytron, J. Ferrante, B. K. Rosen, M. N. Wegman, F. K. Zadeck, ACM Transactions on Programming Languages and Systems, Volume: 13, Issue: 4, October 1991
+
+- "LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation", C. Lattner, V. Adve, International Symposium on Code Generation and Optimization (CGO), 2004
 
 
 
@@ -70,6 +88,8 @@ Or, Person having the above Background(s)
 
 
 #### 3.1.1. Mapping State Diagram to Program
+
+- "Statecharts: A Visual Formalism for Complex Systems", D. Harel, Science of Computer Programming, Volume: 8, Issue: 3, June 1987
 
 
 #### 3.1.2. Mapping Program to Instruction Stream
@@ -119,6 +139,12 @@ Or, Person having the above Background(s)
 
 
 #### 4.1.2. Vector Processors
+
+- "The CRAY-1 Computer System", R. M. Russell, Communications of the ACM, Volume: 21, Issue: 1, January 1978
+
+- "The TI ASC: A Highly Modular and Flexible Super Computer Architecture", W. J. Watson, AFIPS Fall Joint Computer Conference, 1972
+
+- "Architecture and Performance of NEC Supercomputer SX System", T. Watanabe, Parallel Computing, Volume: 5, 1987
 
 
 ### 4.2. Out-of-Order Enhancement
@@ -183,6 +209,10 @@ Or, Person having the above Background(s)
 
 #### 4.4.3. Mapping Processing Flow to FSM-based Processor
 
+- "The Best Way to Design an Automatic Calculating Machine", M. V. Wilkes, Manchester University Computer Inaugural Conference, 1951
+
+- "RISC I: A Reduced Instruction Set VLSI Computer", D. A. Patterson, C. H. Sequin, Proceedings of the 8th Annual Symposium on Computer Architecture (ISCA-8), 1981
+
 
 ### 4.5. Parallelism: Limits of Processors
 
@@ -206,6 +236,12 @@ Or, Person having the above Background(s)
 
 
 #### 4.5.3. Basic Block-Level Parallelism
+
+- "Trace Scheduling: A Technique for Global Microcode Compaction", J. A. Fisher, IEEE Transactions on Computers, Volume: C-30, Issue: 7, July 1981
+
+- "The Superblock: An Effective Technique for VLIW and Superscalar Compilation", W. W. Hwu, S. A. Mahlke, W. Y. Chen, P. P. Chang, N. J. Warter, R. A. Bringmann, R. G. Ouellette, R. E. Hank, T. Kiyohara, G. E. Haab, J. G. Holm, D. M. Lavery, The Journal of Supercomputing, Volume: 7, 1993
+
+- "Iterative Modulo Scheduling: An Algorithm for Software Pipelining Loops", B. R. Rau, Proceedings of the 27th Annual International Symposium on Microarchitecture (MICRO-27), 1994
 
 
 #### 4.5.4. Instruction-Level Parallelism
@@ -261,8 +297,14 @@ Or, Person having the above Background(s)
 
 #### 5.3.1. Static RAM
 
+- "Semiconductor Memories: Technology, Testing, and Reliability", A. K. Sharma, IEEE Press, 1996
+
 
 #### 5.3.2. Dynamic RAM
+
+- "Field-Effect Transistor Memory", R. H. Dennard, US Patent 3,387,286, 1968
+
+- "DRAM Circuit Design: Fundamental and High-Speed Topics", B. Keeth, R. J. Baker, B. Johnson, F. Lin, Wiley-IEEE Press, 2007
 
 
 
@@ -336,6 +378,12 @@ Or, Person having the above Background(s)
 
 #### 7.1.3. Optimization
 
+- "Gedanken-Experiments on Sequential Machines", E. F. Moore, Automata Studies, Princeton University Press, 1956
+
+- "A Method for Synthesizing Sequential Circuits", G. H. Mealy, Bell System Technical Journal, Volume: 34, Issue: 5, September 1955
+
+- "The Synthesis of Sequential Switching Circuits", D. A. Huffman, Journal of the Franklin Institute, Volume: 257, 1954
+
 
 ### 7.2. Boolean Algebra and Logic Circuit
 
@@ -346,6 +394,10 @@ Or, Person having the above Background(s)
 
 
 #### 7.2.2. Logic Gate Primitives
+
+- "A Symbolic Analysis of Relay and Switching Circuits", C. E. Shannon, Transactions of the AIEE, Volume: 57, 1938
+
+- "An Investigation of the Laws of Thought", G. Boole, Walton and Maberly, 1854
 
 
 #### 7.2.3. Combinatorial Logic Circuit
@@ -363,14 +415,24 @@ Or, Person having the above Background(s)
 
 #### 7.3.2. Clocking, Latches and Flip-Flop
 
+- "Optimizing Synchronous Systems", C. E. Leiserson, J. B. Saxe, Journal of VLSI and Computer Systems, Volume: 1, 1983
+
+- "General Theory of Metastable Operation", L. R. Marino, IEEE Transactions on Computers, Volume: C-30, Issue: 2, February 1981
+
 
 ### 7.4. Modular and Intellectual Properties
 
 
 #### 7.4.1. Reuse of Module
 
+- "Reuse Methodology Manual for System-on-a-Chip Designs", M. Keating, P. Bricaud, Springer, 1999
+
 
 #### 7.4.2. Module: Hierarchical Description
+
+- "Introduction to VLSI Systems", C. Mead, L. Conway, Addison-Wesley, 1980
+
+- "Microelectronics and Computer Science", I. E. Sutherland, C. A. Mead, Scientific American, Volume: 237, Issue: 3, September 1977
 
 
 
@@ -382,6 +444,10 @@ Or, Person having the above Background(s)
 
 
 #### 8.1.1. Die-Stacking
+
+- "Three-Dimensional Silicon Integration", J. U. Knickerbocker, P. S. Andry, B. Dang, R. R. Horton, M. J. Interrante, C. S. Patel, R. J. Polastre, K. Sakuma, R. Sirdeshmukh, E. J. Sprogis, S. M. Sri-Jayantha, A. M. Stephens, A. W. Topol, C. K. Tsang, B. C. Webb, S. L. Wright, IBM Journal of Research and Development, Volume: 52, Issue: 6, November 2008
+
+- "Demystifying 3D ICs: The Pros and Cons of Going Vertical", W. R. Davis, J. Wilson, S. Mick, J. Xu, H. Hua, C. Mineo, A. M. Sule, M. Steer, P. D. Franzon, IEEE Design & Test of Computers, Volume: 22, Issue: 6, November-December 2005
 
 
 #### 8.1.2. Chiplet
