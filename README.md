@@ -50,12 +50,12 @@ Or, Person having the above Background(s)
 
 - "The Programming Language Pascal", N. Wirth, Acta Informatica, Volume: 1, 1971
 
-- "The C++ Programming Language", B. Stroustrup, Addison-Wesley, 1986
+- "The C++ Programming Language", B. Stroustrup, Addison-Wesley, 1985
 
 
 ### 1.3. Compilers
 
-- "Compilers: Principles, Techniques, and Tools", A. V. Aho, M. S. Lam, R. Sethi, J. D. Ullman, Addison-Wesley
+- "Compilers: Principles, Techniques, and Tools" (Dragon Book), A. V. Aho, M. S. Lam, R. Sethi, J. D. Ullman, Addison-Wesley, 2nd Edition, 2007
 
 - "Efficiently Computing Static Single Assignment Form and the Control Dependence Graph", R. Cytron, J. Ferrante, B. K. Rosen, M. N. Wegman, F. K. Zadeck, ACM Transactions on Programming Languages and Systems, Volume: 13, Issue: 4, October 1991
 
